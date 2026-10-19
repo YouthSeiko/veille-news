@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Veille — Tech &amp; Cybersécurité</title>
+<meta name="description" content="Veille quotidienne automatisée : dernières nouvelles de la technologie et de la cybersécurité.">
+<link rel="stylesheet" href="assets/app.css">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="head-row">
+      <div>
+        <h1>Veille <b>quotidienne</b> — Tech &amp; Cybersécurité</h1>
+        <p class="sub" id="date-label">Chargement…</p>
+        <p class="stats" id="stats"></p>
+      </div>
+      <div class="auth-box">
+        <button class="btn" id="btn-login-open" type="button">Connexion</button>
+        <div class="user-box hidden" id="user-box">
+          <span class="user-name" id="user-name"></span>
+          <button class="btn ghost" id="btn-logout" type="button">Déconnexion</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div id="alerts"></div>
+
+  <section id="sec-pinned" class="hidden">
+    <h2><span class="dot pinned"></span>À la une <span class="count" id="count-pinned">0</span></h2>
+    <div class="list" id="list-pinned"></div>
+  </section>
+
+  <div class="controls" id="controls">
+    <input id="q" type="search" placeholder="Rechercher un titre, un mot-clé… (raccourci : /)" autocomplete="off">
+    <select id="src"><option value="">Toutes les sources</option></select>
+    <div class="seg" id="seg">
+      <button class="on" data-lang="" type="button">Tous</button>
+      <button data-lang="en" type="button">EN</button>
+      <button data-lang="fr" type="button">FR</button>
+    </div>
+    <button class="btn ghost hidden" id="btn-today" type="button">Revenir au jour actuel</button>
+  </div>
+
+  <section id="sec-cyber">
+    <h2><span class="dot cyber"></span>Cybersécurité <span class="count" id="count-cyber">0</span></h2>
+    <div class="list" id="list-cyber"></div>
+  </section>
+
+  <section id="sec-tech">
+    <h2><span class="dot tech"></span>Technologie <span class="count" id="count-tech">0</span></h2>
+    <div class="list" id="list-tech"></div>
+  </section>
+
+  <footer>
+    <h4>Archives</h4>
+    <div class="arch-list" id="arch-list"><span class="hint">Historique en cours de constitution…</span></div>
+  </footer>
+</div>
+
+<div class="backdrop hidden" id="modal-article">
+  <div class="modal">
+    <button class="x" data-close type="button" aria-label="Fermer">&times;</button>
+    <div class="modal-body" id="modal-article-body"></div>
+    <hr>
+    <div class="comments">
+      <h4>Commentaires <span class="count" id="count-comments">0</span></h4>
+      <div id="comments-list"></div>
+      <form id="comment-form" class="hidden">
+        <textarea id="comment-text" rows="3" maxlength="2000" placeholder="Votre commentaire sur cet article…"></textarea>
+        <div class="row">
+          <span class="hint" id="comment-hint"></span>
+          <button class="btn primary" type="submit">Publier</button>
+        </div>
+      </form>
+      <p class="hint" id="comment-login-hint"><a href="#" id="link-login-2">Connectez-vous</a> pour commenter.</p>
+    </div>
+  </div>
+</div>
+
+<div class="backdrop hidden" id="modal-login">
+  <div class="modal small">
+    <button class="x" data-close type="button" aria-label="Fermer">&times;</button>
+    <h3>Connexion</h3>
+    <form id="login-form">
+      <label>Identifiant (email)
+        <input type="email" id="login-email" required autocomplete="username" placeholder="vous@exemple.fr">
+      </label>
+      <label>Mot de passe
+        <input type="password" id="login-password" required autocomplete="current-password">
+      </label>
+      <p class="err hidden" id="login-err"></p>
+      <button class="btn primary" type="submit" id="login-submit">Se connecter</button>
+    </form>
+  </div>
+</div>
+
+<div class="toast hidden" id="toast"></div>
+
+<script src="assets/config.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

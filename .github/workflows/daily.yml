@@ -1,0 +1,65 @@
+name: veille-quotidienne
+
+on:
+  schedule:
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collecter les flux RSS
+        run: python collector/veille.py --no-open --no-html --json --data-dir data
+
+      - name: Archiver les donnees quotidiennes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "Aucun changement de donnees"
+          else
+            git commit -m "veille $(date -u +%F)"
+            git push
+          fi
+
+      - name: Preparer le site
+        run: |
+          mkdir -p dist
+          cp index.html dist/
+          cp -r assets dist/
+          cp -r data dist/
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

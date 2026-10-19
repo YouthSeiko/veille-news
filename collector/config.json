@@ -1,0 +1,35 @@
+{
+  "heure": "12:00",
+  "age_max_heures": 48,
+  "articles_max_par_flux": 12,
+  "chrome": "auto",
+  "ouvrir_page": true,
+  "mots_cles_cyber": [
+    "cybersécurité", "cybersecurite", "cyberattaque", "cyberattaques",
+    "ransomware", "malware", "logiciel malveillant", "phishing", "hameçonnage",
+    "faille", "CVE", "breach", "piratage", "fuite de données", "exploit",
+    "zero-day", "zero day", "sécurité informatique", "sécurité", "chiffrement",
+    "incident", "attaque", "otage", "espionnage", "RGPD", "vulnérabilité"
+  ],
+  "mots_cles_tech": [
+    "intelligence artificielle", "IA", "OpenAI", "Google", "Microsoft",
+    "Apple", "Linux", "open source", "smartphone", "Windows", "Android",
+    "navigateur", "processeur", "GPU", "datacenter", "cloud", "robot"
+  ],
+  "flux": [
+    { "nom": "The Hacker News", "url": "https://feeds.feedburner.com/TheHackersNews", "categorie": "cyber", "langue": "en" },
+    { "nom": "BleepingComputer", "url": "https://www.bleepingcomputer.com/feed/", "categorie": "cyber", "langue": "en" },
+    { "nom": "Krebs on Security", "url": "https://krebsonsecurity.com/feed/", "categorie": "cyber", "langue": "en" },
+    { "nom": "CyberSecurityNews", "url": "https://www.cybersecuritynews.com/feed/", "categorie": "cyber", "langue": "en" },
+    { "nom": "Dark Reading", "url": "https://www.darkreading.com/rss.xml", "categorie": "cyber", "langue": "en" },
+    { "nom": "CNIL", "url": "https://www.cnil.fr/rss.xml", "categorie": "cyber", "langue": "fr" },
+    { "nom": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index", "categorie": "tech", "langue": "en" },
+    { "nom": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "categorie": "tech", "langue": "en" },
+    { "nom": "BBC Technology", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml", "categorie": "tech", "langue": "en" },
+    { "nom": "Numerama", "url": "https://www.numerama.com/feed/", "categorie": "tech", "langue": "fr" },
+    { "nom": "01net", "url": "https://www.01net.com/rss/actualites/", "categorie": "tech", "langue": "fr" },
+    { "nom": "Le Monde Informatique", "url": "https://feeds.feedburner.com/LeMondeInformatique", "categorie": "tech", "langue": "fr" },
+    { "nom": "Frandroid", "url": "https://www.frandroid.com/feed", "categorie": "tech", "langue": "fr" },
+    { "nom": "Journal du Net", "url": "https://www.journaldunet.com/rss/", "categorie": "tech", "langue": "fr" }
+  ]
+}
