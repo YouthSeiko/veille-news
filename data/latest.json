@@ -1,9 +1,21 @@
 {
- "generated_at": "2026-10-19T14:13:40+00:00",
+ "generated_at": "2026-10-19T14:14:51+00:00",
  "date": "2026-10-19",
  "sources_total": 14,
- "sources_failed": [],
+ "sources_failed": [
+  "CyberSecurityNews"
+ ],
  "articles": [
+  {
+   "title": "Encore plus fort que la 4K : ce TV Neo QLED Samsung de 65″ affiche fièrement de la 8K à 120 Hz et un prix en baisse de 265 €",
+   "link": "https://www.frandroid.com/bons-plans/3290727_encore-plus-fort-que-la-4k-ce-tv-neo-qled-samsung-de-65-affiche-fierement-de-la-8k-a-120-hz-et-un-prix-en-baisse-de-265-e",
+   "date": "2026-10-19T14:13:00+00:00",
+   "summary": "Le Samsung TQ65QN900F est un téléviseur 8K 120 Hz de 65 pouces, qui monte à 165 Hz en 4K, idéal pour le cinéma et le gaming. Il est à retrouver sur Son-Vidéo.com pour 2 384,10 euros au lieu de 2 649 euros grâce à un code promo.",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
   {
    "title": "Tesla Roadster : une quatrième version confirmée par le designer en chef",
    "link": "https://www.numerama.com/vroom/2356123-tesla-roadster-une-quatrieme-version-confirmee-par-le-designer-en-chef.html",
@@ -206,6 +218,18 @@
    ]
   },
   {
+   "title": "Comparatif Apple Watch : Series 12, Ultra 4 ou SE 3, laquelle choisir en 2026 ?",
+   "link": "https://www.numerama.com/tech/1820158-quelle-apple-watch-choisir-notre-comparatif-des-montres-connectees-dapple.html",
+   "date": "2026-10-19T13:00:00+00:00",
+   "summary": "Apple Watch Series 12, Ultra 4 ou SE 3 ? Entre les écarts de prix et les nombreuses fonctions, le choix n’a rien d’évident. Notre comparatif des montres connectées d'Apple vous aide à trouver la montre adaptée à vos usages et à votre budget en 2026.",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "Apple"
+   ]
+  },
+  {
    "title": "Uber wins bid to throw out £200m black cab claims",
    "link": "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-19T12:58:39+00:00",
@@ -288,31 +312,6 @@
    ]
   },
   {
-   "title": "NSA, CISA and NIST Release New Security Guidelines to Detect and Shut Down Rogue AI Agents",
-   "link": "https://cybersecuritynews.com/nsa-cisa-and-nist-release-guidelines-to-rogue-ai-agents/",
-   "date": "2026-10-19T12:08:04+00:00",
-   "summary": "NSA, CISA, and NIST have released joint security guidelines to help organizations detect, contain, and shut down AI agents that act beyond their approved tasks. Published October 16, 2026, the voluntary guidance sets out ten practices for managing incidents during superintelligence training and evaluation, with a …",
-   "source": "CyberSecurityNews",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": [
-    "incident"
-   ]
-  },
-  {
-   "title": "Hackers Exploit SiteGuard WAF Vulnerability That Could Give Them Full Control of Servers",
-   "link": "https://cybersecuritynews.com/hackers-exploit-siteguard-waf-vulnerability/",
-   "date": "2026-10-19T12:07:14+00:00",
-   "summary": "Hackers are exploiting a command injection flaw in SiteGuard Server Edition, a web application firewall installed directly on protected servers. Tracked as CVE-2026-106931, the vulnerability could let attackers run operating system commands with root or SYSTEM privileges, potentially giving them full control of an …",
-   "source": "CyberSecurityNews",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": [
-    "CVE",
-    "exploit"
-   ]
-  },
-  {
    "title": "Acheter une voiturette électrique pourrait bientôt coûter moins cher grâce à cette aide",
    "link": "https://www.01net.com/actualites/acheter-une-voiturette-electrique-pourrait-bientot-couter-moins-cher-grace-a-cette-aide.html",
    "date": "2026-10-19T12:03:53+00:00",
@@ -338,28 +337,6 @@
    "date": "2026-10-19T11:50:00+00:00",
    "summary": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to-Case turn inbound customer messages into case records; it is how airlines and hotels run support …",
    "source": "The Hacker News",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": []
-  },
-  {
-   "title": "Hackers Registered New Teams-Based Domains and Used a Login Page to Steal Your Logins",
-   "link": "https://cybersecuritynews.com/teams-domain-login-page/",
-   "date": "2026-10-19T11:40:57+00:00",
-   "summary": "A newly registered domain copies Microsoft Teams’ login page and interface, raising concerns about a phishing attempt targeting workplace users. Security researcher Steven Lim reported that teams-cloud[.]live was just five days old when he flagged it on October 18, 2026. He urged organizations to block the address …",
-   "source": "CyberSecurityNews",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": [
-    "phishing"
-   ]
-  },
-  {
-   "title": "16-Year-Old Broadcom Wi-Fi Flaw Lets Attackers Hack Routers Without Knowing Passwords",
-   "link": "https://cybersecuritynews.com/16-year-old-broadcom-wi-fi-flaw/",
-   "date": "2026-10-19T11:36:47+00:00",
-   "summary": "A 16-year-old flaw in Broadcom’s Wi-Fi software can let attackers within wireless range take control of affected routers without knowing the network password. Security researcher Quentin Kaiser disclosed the issue at Hexacon in Paris on October 16, 2026, warning that old code remains in widely deployed devices. …",
-   "source": "CyberSecurityNews",
    "lang": "en",
    "cat": "cyber",
    "tags": []
@@ -511,16 +488,6 @@
    "link": "https://www.frandroid.com/marques/volkswagen/3290343_volkswagen-id-cross-9-800-e-de-moins-grace-a-une-batterie-lfp-mais-a-quelles-concessions",
    "date": "2026-10-19T10:21:11+00:00",
    "summary": "Quelques mois après son lancement, le Volkswagen ID. Cross enrichit sa gamme avec une nouvelle version plus abordable. La voiture électrique a désormais droit à une batterie de 37 kWh, offrant une autonomie très correcte.",
-   "source": "Frandroid",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "440 000 euros de RTX 5090 se sont volatilisés d’un aéroport brésilien sans explications",
-   "link": "https://www.frandroid.com/marques/nvidia/3290517_440-000-euros-de-rtx-5090-se-sont-volatilises-dun-aeroport-bresilien-sans-explications",
-   "date": "2026-10-19T10:19:58+00:00",
-   "summary": "Déjà difficiles à trouver et vendues à prix d’or, les RTX 5090 ne vont pas voir leur situation s’arranger. Deux palettes de cartes graphiques Zotac, estimées à près de 440 000 euros, ont mystérieusement disparu à l’aéroport international de Guarulhos, près de São Paulo, au Brésil. Un coup dur pour les stocks, alors …",
    "source": "Frandroid",
    "lang": "fr",
    "cat": "tech",
@@ -696,16 +663,6 @@
    ]
   },
   {
-   "title": "WoW Forever : le stress test gratuit et ouvert à tous est décalé au 21 octobre",
-   "link": "https://www.numerama.com/pop-culture/2354075-wow-forever-le-stress-test-gratuit-et-ouvert-a-tous-est-decale-au-21-octobre.html",
-   "date": "2026-10-19T09:02:18+00:00",
-   "summary": "Un « Stress Test » de World of Warcraft: Forever et prévu le 21 octobre. Blizzard l'a confirmé officiellement, mais a décalé l'évènement de deux jours (une précédente date au 19 octobre était envisagée).",
-   "source": "Numerama",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
    "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
    "date": "2026-10-19T08:58:41+00:00",
@@ -811,18 +768,6 @@
    ]
   },
   {
-   "title": "Google Unveils New Android AI Protections to Block Scam Calls, Phishing Links and OTP Theft",
-   "link": "https://cybersecuritynews.com/google-unveils-new-android-ai-protections/",
-   "date": "2026-10-19T06:04:18+00:00",
-   "summary": "Google has announced a new set of Android security protections designed to stop mobile scams across calls, text messages, chat apps, web links, and account verification codes. The update comes as criminals increasingly use spoofed phone numbers, fake bank alerts, phishing pages, remote screen sharing, and AI-generated …",
-   "source": "CyberSecurityNews",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": [
-    "phishing"
-   ]
-  },
-  {
    "title": "Permis de conduire valable 15 ans : la France va dire adieu au permis à vie",
    "link": "https://www.01net.com/actualites/permis-de-conduire-valable-15-ans-la-france-va-dire-adieu-au-permis-a-vie.html",
    "date": "2026-10-19T05:50:18+00:00",
@@ -830,29 +775,6 @@
    "source": "01net",
    "lang": "fr",
    "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Hackers Exploiting Plex Vulnerabilities in the Wild to Deploy Cryptominer Malware",
-   "link": "https://cybersecuritynews.com/plex-vulnerabilities-exploited-in-wild/",
-   "date": "2026-10-19T04:14:01+00:00",
-   "summary": "Hackers are exploiting flaws in Plex Media Server to install cryptocurrency mining malware, with a researcher recording successful attacks against a honeypot on October 17, 2026. The activity follows the release of Plex2Shell, a public exploit that chains four vulnerabilities to run code without logging in. Later …",
-   "source": "CyberSecurityNews",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": [
-    "malware",
-    "exploit"
-   ]
-  },
-  {
-   "title": "Microsoft Confirms October Windows Updates Can Break Exchange Server Email Services",
-   "link": "https://cybersecuritynews.com/october-updates-break-exchange-server/",
-   "date": "2026-10-19T03:39:03+00:00",
-   "summary": "Microsoft has confirmed that Windows Server security updates released on October 13, 2026, can disrupt Exchange Server email services, blocking webmail access and leaving messages undelivered. The issue affects some on-premises systems running Exchange Server 2016, Exchange Server 2019, and Exchange Server …",
-   "source": "CyberSecurityNews",
-   "lang": "en",
-   "cat": "cyber",
    "tags": []
   },
   {
@@ -942,19 +864,6 @@
    ]
   },
   {
-   "title": "OpenCode Security Breach Exposes Third-Party API Keys of its Console Users",
-   "link": "https://cybersecuritynews.com/opencode-security-breach/",
-   "date": "2026-10-18T04:20:16+00:00",
-   "summary": "OpenCode has disclosed a security breach affecting 1.4% of its Console users, warning that third-party API keys saved in affected workspaces may have been exposed. In an October 17 statement, the company linked the incident to a large-scale distillation attack and said it was working with Anthropic, OpenAI, and Google …",
-   "source": "CyberSecurityNews",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": [
-    "breach",
-    "incident"
-   ]
-  },
-  {
    "title": "No further action against government adviser's wife over Palestine Action post, police say",
    "link": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-17T20:24:32+00:00",
@@ -962,16 +871,6 @@
    "source": "BBC Technology",
    "lang": "en",
    "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Claude AI Solves 25-Year NSA Cryptography Mystery in Just 30 Minutes",
-   "link": "https://cybersecuritynews.com/claude-ai-cryptography-mystery/",
-   "date": "2026-10-17T16:59:29+00:00",
-   "summary": "Anthropic says an internal Claude research model has traced the origins of five NSA-supplied elliptic curve seeds in under 30 minutes, answering a cryptography question that remained open for roughly 25 years. The finding explains how important public security parameters were chosen, rather than exposing secret keys …",
-   "source": "CyberSecurityNews",
-   "lang": "en",
-   "cat": "cyber",
    "tags": []
   },
   {
