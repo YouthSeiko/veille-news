@@ -1,10 +1,8 @@
 {
- "generated_at": "2026-10-19T14:14:51+00:00",
+ "generated_at": "2026-10-19T14:17:44+00:00",
  "date": "2026-10-19",
  "sources_total": 14,
- "sources_failed": [
-  "CyberSecurityNews"
- ],
+ "sources_failed": [],
  "articles": [
   {
    "title": "Encore plus fort que la 4K : ce TV Neo QLED Samsung de 65″ affiche fièrement de la 8K à 120 Hz et un prix en baisse de 265 €",
@@ -27,16 +25,6 @@
    "tags": []
   },
   {
-   "title": "It’s hard to imagine wireless headphones ever getting lighter than these",
-   "link": "https://www.theverge.com/tech/1013635/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these",
-   "date": "2026-10-19T14:03:28+00:00",
-   "summary": "If you're on the hunt for lightweight wireless headphones but wearing earbuds or clip-ons never feels comfortable or secure, a relatively obscure Japanese headphone maker could have the solution. Final's new Porta headphones feature an on-ear design supported by a headband but with a structure made from a single piece …",
-   "source": "The Verge",
-   "lang": "en",
-   "cat": "tech",
-   "tags": []
-  },
-  {
    "title": "Inside the Underground Market for Know Your Client Services",
    "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
    "date": "2026-10-19T14:00:10+00:00",
@@ -54,16 +42,6 @@
    "source": "Dark Reading",
    "lang": "en",
    "cat": "cyber",
-   "tags": []
-  },
-  {
-   "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-   "date": "2026-10-19T13:58:41+00:00",
-   "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over …",
-   "source": "The Verge",
-   "lang": "en",
-   "cat": "tech",
    "tags": []
   },
   {
@@ -312,6 +290,31 @@
    ]
   },
   {
+   "title": "NSA, CISA and NIST Release New Security Guidelines to Detect and Shut Down Rogue AI Agents",
+   "link": "https://cybersecuritynews.com/nsa-cisa-and-nist-release-guidelines-to-rogue-ai-agents/",
+   "date": "2026-10-19T12:08:04+00:00",
+   "summary": "NSA, CISA, and NIST have released joint security guidelines to help organizations detect, contain, and shut down AI agents that act beyond their approved tasks. Published October 16, 2026, the voluntary guidance sets out ten practices for managing incidents during superintelligence training and evaluation, with a …",
+   "source": "CyberSecurityNews",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "incident"
+   ]
+  },
+  {
+   "title": "Hackers Exploit SiteGuard WAF Vulnerability That Could Give Them Full Control of Servers",
+   "link": "https://cybersecuritynews.com/hackers-exploit-siteguard-waf-vulnerability/",
+   "date": "2026-10-19T12:07:14+00:00",
+   "summary": "Hackers are exploiting a command injection flaw in SiteGuard Server Edition, a web application firewall installed directly on protected servers. Tracked as CVE-2026-106931, the vulnerability could let attackers run operating system commands with root or SYSTEM privileges, potentially giving them full control of an …",
+   "source": "CyberSecurityNews",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "CVE",
+    "exploit"
+   ]
+  },
+  {
    "title": "Acheter une voiturette électrique pourrait bientôt coûter moins cher grâce à cette aide",
    "link": "https://www.01net.com/actualites/acheter-une-voiturette-electrique-pourrait-bientot-couter-moins-cher-grace-a-cette-aide.html",
    "date": "2026-10-19T12:03:53+00:00",
@@ -337,6 +340,28 @@
    "date": "2026-10-19T11:50:00+00:00",
    "summary": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to-Case turn inbound customer messages into case records; it is how airlines and hotels run support …",
    "source": "The Hacker News",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "Hackers Registered New Teams-Based Domains and Used a Login Page to Steal Your Logins",
+   "link": "https://cybersecuritynews.com/teams-domain-login-page/",
+   "date": "2026-10-19T11:40:57+00:00",
+   "summary": "A newly registered domain copies Microsoft Teams’ login page and interface, raising concerns about a phishing attempt targeting workplace users. Security researcher Steven Lim reported that teams-cloud[.]live was just five days old when he flagged it on October 18, 2026. He urged organizations to block the address …",
+   "source": "CyberSecurityNews",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "phishing"
+   ]
+  },
+  {
+   "title": "16-Year-Old Broadcom Wi-Fi Flaw Lets Attackers Hack Routers Without Knowing Passwords",
+   "link": "https://cybersecuritynews.com/16-year-old-broadcom-wi-fi-flaw/",
+   "date": "2026-10-19T11:36:47+00:00",
+   "summary": "A 16-year-old flaw in Broadcom’s Wi-Fi software can let attackers within wireless range take control of affected routers without knowing the network password. Security researcher Quentin Kaiser disclosed the issue at Hexacon in Paris on October 16, 2026, warning that old code remains in widely deployed devices. …",
+   "source": "CyberSecurityNews",
    "lang": "en",
    "cat": "cyber",
    "tags": []
@@ -768,6 +793,18 @@
    ]
   },
   {
+   "title": "Google Unveils New Android AI Protections to Block Scam Calls, Phishing Links and OTP Theft",
+   "link": "https://cybersecuritynews.com/google-unveils-new-android-ai-protections/",
+   "date": "2026-10-19T06:04:18+00:00",
+   "summary": "Google has announced a new set of Android security protections designed to stop mobile scams across calls, text messages, chat apps, web links, and account verification codes. The update comes as criminals increasingly use spoofed phone numbers, fake bank alerts, phishing pages, remote screen sharing, and AI-generated …",
+   "source": "CyberSecurityNews",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "phishing"
+   ]
+  },
+  {
    "title": "Permis de conduire valable 15 ans : la France va dire adieu au permis à vie",
    "link": "https://www.01net.com/actualites/permis-de-conduire-valable-15-ans-la-france-va-dire-adieu-au-permis-a-vie.html",
    "date": "2026-10-19T05:50:18+00:00",
@@ -775,6 +812,29 @@
    "source": "01net",
    "lang": "fr",
    "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Hackers Exploiting Plex Vulnerabilities in the Wild to Deploy Cryptominer Malware",
+   "link": "https://cybersecuritynews.com/plex-vulnerabilities-exploited-in-wild/",
+   "date": "2026-10-19T04:14:01+00:00",
+   "summary": "Hackers are exploiting flaws in Plex Media Server to install cryptocurrency mining malware, with a researcher recording successful attacks against a honeypot on October 17, 2026. The activity follows the release of Plex2Shell, a public exploit that chains four vulnerabilities to run code without logging in. Later …",
+   "source": "CyberSecurityNews",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "malware",
+    "exploit"
+   ]
+  },
+  {
+   "title": "Microsoft Confirms October Windows Updates Can Break Exchange Server Email Services",
+   "link": "https://cybersecuritynews.com/october-updates-break-exchange-server/",
+   "date": "2026-10-19T03:39:03+00:00",
+   "summary": "Microsoft has confirmed that Windows Server security updates released on October 13, 2026, can disrupt Exchange Server email services, blocking webmail access and leaving messages undelivered. The issue affects some on-premises systems running Exchange Server 2016, Exchange Server 2019, and Exchange Server …",
+   "source": "CyberSecurityNews",
+   "lang": "en",
+   "cat": "cyber",
    "tags": []
   },
   {
@@ -840,6 +900,16 @@
    "tags": []
   },
   {
+   "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
+   "link": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
+   "date": "2026-10-18T14:53:52+00:00",
+   "summary": "The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck OLED), and it’s got double the RAM and storage […]",
+   "source": "The Verge",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
    "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
    "date": "2026-10-18T14:23:16+00:00",
@@ -850,6 +920,16 @@
    "tags": [
     "exploit"
    ]
+  },
+  {
+   "title": "J Mascis has nothing better to do",
+   "link": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
+   "date": "2026-10-18T14:13:04+00:00",
+   "summary": "Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Mascis has developed a similar reputation as an interview subject, quietly sitting and offering deft …",
+   "source": "The Verge",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
   },
   {
    "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
@@ -864,6 +944,19 @@
    ]
   },
   {
+   "title": "OpenCode Security Breach Exposes Third-Party API Keys of its Console Users",
+   "link": "https://cybersecuritynews.com/opencode-security-breach/",
+   "date": "2026-10-18T04:20:16+00:00",
+   "summary": "OpenCode has disclosed a security breach affecting 1.4% of its Console users, warning that third-party API keys saved in affected workspaces may have been exposed. In an October 17 statement, the company linked the incident to a large-scale distillation attack and said it was working with Anthropic, OpenAI, and Google …",
+   "source": "CyberSecurityNews",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "breach",
+    "incident"
+   ]
+  },
+  {
    "title": "No further action against government adviser's wife over Palestine Action post, police say",
    "link": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-17T20:24:32+00:00",
@@ -871,6 +964,16 @@
    "source": "BBC Technology",
    "lang": "en",
    "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Claude AI Solves 25-Year NSA Cryptography Mystery in Just 30 Minutes",
+   "link": "https://cybersecuritynews.com/claude-ai-cryptography-mystery/",
+   "date": "2026-10-17T16:59:29+00:00",
+   "summary": "Anthropic says an internal Claude research model has traced the origins of five NSA-supplied elliptic curve seeds in under 30 minutes, answering a cryptography question that remained open for roughly 25 years. The finding explains how important public security parameters were chosen, rather than exposing secret keys …",
+   "source": "CyberSecurityNews",
+   "lang": "en",
+   "cat": "cyber",
    "tags": []
   },
   {
