@@ -1,0 +1,1255 @@
+{
+ "generated_at": "2026-10-27T15:35:36+00:00",
+ "date": "2026-10-27",
+ "sources_total": 14,
+ "sources_failed": [],
+ "articles": [
+  {
+   "title": "Apple&#8217;s latest AirTag is the cheapest it’s ever been",
+   "link": "https://www.theverge.com/gadgets/1019138/apple-airtag-second-gen-cricut-joy-2-printer-deal-sale",
+   "date": "2026-10-27T15:34:16+00:00",
+   "summary": "Thanksgiving is less than a month away, so now’s a good time to start preparing before the rush. Fortunately, Apple’s latest AirTag can help you keep tabs on your luggage and other belongings amid the holiday chaos, and it’s currently down to an all-time low of $23 ($6 off) at Amazon and Walmart. If you […]",
+   "source": "The Verge",
+   "lang": "en",
+   "cat": "tech",
+   "tags": [
+    "Apple"
+   ]
+  },
+  {
+   "title": "Windows 11 ajoute un bouton pour réactiver votre abonnement Microsoft 365, mais rien pour le résilier",
+   "link": "https://www.frandroid.com/marques/microsoft/3300739_windows-11-ajoute-un-bouton-pour-reactiver-votre-abonnement-microsoft-365-mais-rien-pour-le-resilier",
+   "date": "2026-10-27T15:32:06+00:00",
+   "summary": "Microsoft teste dans Windows 11 un bouton qui permet de réactiver le renouvellement automatique de Microsoft 365 depuis les Paramètres et le menu Démarrer. Il vise uniquement les abonnés qui avaient justement coupé ce renouvellement.",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "Microsoft",
+    "Windows"
+   ]
+  },
+  {
+   "title": "CISA Offers Two Free Tools to Detect Security Misconfigurations in Microsoft 365 and Google Workspace",
+   "link": "https://cybersecuritynews.com/cisa-free-tools-to-detect-misconfigurations/",
+   "date": "2026-10-27T15:31:45+00:00",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) offers two free tools to help organizations find security misconfigurations in Microsoft 365 and Google Workspace. ScubaGear and ScubaGoggles compare cloud settings against recommended security baselines, giving administrators a clearer view of …",
+   "source": "CyberSecurityNews",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "Micromania annule l’événement de lancement de The Legend of Zelda: Ocarina of Time",
+   "link": "https://www.numerama.com/pop-culture/2361699-micromania-annule-levenement-de-lancement-de-the-legend-of-zelda-ocarina-of-time.html",
+   "date": "2026-10-27T15:20:17+00:00",
+   "summary": "Micromania a annoncé l'annulation de la soirée de lancement prévue pour le remake de The Legend of Zelda: Ocarina of Time, qui devait être organisée en nocturne dans plusieurs magasins de France.",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "À deux jours de sa sortie, la Switch 2 Zelda 40e anniversaire revient en précommande sur la Fnac",
+   "link": "https://www.numerama.com/tech/2360005-la-switch-2-zelda-40e-anniversaire-revient-en-precommande-sur-la-fnac-a-deux-jours-de-sa-sortie.html",
+   "date": "2026-10-27T15:18:06+00:00",
+   "summary": "[Deal du jour] En rupture quasiment partout, la Nintendo Switch 2 Zelda revient en précommande. Cette dernière sera disponible dès le 29 octobre avant la sortie d'Ocarina of Time le 5 novembre prochain.",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "David Amiel propose de renforcer la lutte contre l'abus d'optimisation fiscale pour financer les mesures jeunesse",
+   "link": "https://www.journaldunet.com/business/action-publique/1557239-david-amiel-propose-de-renforcer-la-lutte-contre-l-abus-d-optimisation-fiscale-pour-financer-les-mesures-jeunesse/",
+   "date": "2026-10-27T15:17:37+00:00",
+   "summary": "Pour financer les mesures en faveur des lycéens et étudiants, l'exécutif mise sur un renforcement de la lutte contre l'abus d'optimisation fiscale, tout en maintenant l'objectif de déficit.",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Israeli Ad Tech Firm Accused on Using Online Ads to Track Starlink Users",
+   "link": "https://cybersecuritynews.com/online-ads-track-starlink-users/",
+   "date": "2026-10-27T15:15:52+00:00",
+   "summary": "Israeli advertising company Discover-Tech is accused of using online ads to track people connected to SpaceX’s Starlink satellite internet service. Reuters reported on October 27 that six people familiar with the research said TrendAI researchers linked the company to unusually heavy advertising activity aimed at …",
+   "source": "CyberSecurityNews",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "Aussi pratique que mignon, cet étonnant chargeur Ugreen de 45 W avec écran intégré coûte moins de 25 €",
+   "link": "https://www.frandroid.com/bons-plans/3291277_aussi-pratique-que-mignon-cet-etonnant-chargeur-ugreen-de-45-w-avec-ecran-integre-coute-moins-de-25-euros",
+   "date": "2026-10-27T15:14:05+00:00",
+   "summary": "L'Ugreen Nexode Pro est un chargeur USB-C compact de 45 W, équipé d'un petit écran qui détaille la charge en temps réel. Un accessoire bien pratique dont le prix tombe à 23,39 euros au lieu de 34,99 euros sur Amazon.",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Même hébergé en local, un modèle d’IA d’Alibaba a tenté d’envoyer un fichier vers Pékin",
+   "link": "https://www.numerama.com/cyberguerre/2361731-meme-heberge-en-local-un-modele-dia-dalibaba-a-tente-denvoyer-un-fichier-vers-pekin.html",
+   "date": "2026-10-27T15:09:09+00:00",
+   "summary": "Lors d’un test mené par l’entreprise d’IA Cohere sur ses propres serveurs, un modèle Qwen3.8 d’Alibaba a tenté, sans qu’on le lui demande, de déposer un fichier sur un serveur situé à Pékin.",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "title": "Cette borne d’arcade Street Fighter II avec 20 jeux Capcom est disponible en précommande : voici où la réserver",
+   "link": "https://www.numerama.com/tech/2361637-cette-borne-darcade-street-fighter-ii-avec-20-jeux-capcom-est-disponible-en-precommande-voici-ou-la-reserver.html",
+   "date": "2026-10-27T15:08:29+00:00",
+   "summary": "[Précommande] Les amateurs de rétrogaming vont pouvoir retrouver l’ambiance des salles d’arcade à domicile. La borne Iconic Arcade XT Capcom Street Fighter II reprend le design des machines des années 90 et embarque 20 jeux officiels de Capcom.",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Palmer Luckey’s Anduril is getting into laptops — and claims they&#8217;ll be American-made",
+   "link": "https://www.theverge.com/gadgets/1019274/anduril-qualcomm-bluechip-laptops-american-made-military",
+   "date": "2026-10-27T15:00:44+00:00",
+   "summary": "Anduril and Qualcomm are partnering on a new line of laptops called BlueChip, launching in early 2027. The first prototype is a ruggedized model using Arm-based Snapdragon X series chips and aimed at the US military, but the ultimate focus of the joint venture is to make laptops entirely in the US. Eventually. The …",
+   "source": "The Verge",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Rachat de SFR : Orange garde le cap et fait une promesse aux salariés",
+   "link": "https://www.01net.com/actualites/rachat-de-sfr-orange-garde-le-cap-et-fait-une-promesse-aux-salaries.html",
+   "date": "2026-10-27T15:00:27+00:00",
+   "summary": "Orange confirme que le rachat de SFR devrait être finalisé au second semestre 2027, tout en assurant rester attaché au dialogue social. Le consortium promet une solution aux 8 000 salariés concernés, mais les syndicats réclament davantage de garanties sur leur avenir professionnel.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Apple updates the MacBook Pro with M6 chips",
+   "link": "https://www.theverge.com/tech/1017664/apple-macbook-pro-m6-processor-upgrade",
+   "date": "2026-10-27T14:42:37+00:00",
+   "summary": "Apple is giving its entry-level MacBook Pro a spec bump. After upgrading the entry-level MacBook Pro with its M5 chip a year ago, Apple is refreshing the laptop today with the M6 chip, which the company launched in August as part of recent upgrades to the new Mac Mini. Last year's entry-level MacBook Pro update […]",
+   "source": "The Verge",
+   "lang": "en",
+   "cat": "tech",
+   "tags": [
+    "Apple"
+   ]
+  },
+  {
+   "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
+   "link": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
+   "date": "2026-10-27T14:20:26+00:00",
+   "summary": "I respect Apple's first crack at a foldable phone, but I'm not sure I like it.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": [
+    "Apple"
+   ]
+  },
+  {
+   "title": "Le Xiaomi Redmi Note 17, avec sa grosse batterie de 7 700 mAh, chute déjà sous les 200 € grâce à cette offre Amazon",
+   "link": "https://www.frandroid.com/bons-plans/3300577_cest-enfin-le-retour-dun-smartphone-redmi-note-de-xiaomi-sous-les-200-e-avec-cette-promo-sur-le-redmi-note-17-4g",
+   "date": "2026-10-27T14:20:00+00:00",
+   "summary": "Le Xiaomi Redmi Note 17 4G, version la plus accessible de la dernière gamme Redmi Note, mise sur un écran AMOLED de 6,99 pouces et une batterie de 7 700 mAh, mais pour un prix plus élevé que son prédécesseur. Le tarif de 200 euros était donc largement dépassé, jusqu'à ce qu'il soit disponible aujourd'hui pour 199 …",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Hackers Use Fake FedEx Invoices to Deploy Sirius Backdoor and Evade Windows Security",
+   "link": "https://cybersecuritynews.com/fake-fedex-invoices/",
+   "date": "2026-10-27T14:18:33+00:00",
+   "summary": "Hackers are sending fake FedEx tax invoices to trick users into installing a stealthy backdoor on Windows. The malware, called Sirius Backdoor, hides inside a blank PDF and loads its main code directly into memory, which leaves very few traces on the hard drive. The emails target people who handle bills and payments. …",
+   "source": "CyberSecurityNews",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "title": "RecompLauncher : le site qui veut réunir vos jeux PlayStation, Nintendo et Xbox sur PC sans émulateur",
+   "link": "https://www.frandroid.com/services/jeux-video/3300497_recomplauncher-le-site-qui-veut-reunir-vos-jeux-playstation-nintendo-et-xbox-sur-pc-sans-emulateur",
+   "date": "2026-10-27T14:10:45+00:00",
+   "summary": "Le site RecompLauncher centralise les jeux recompilés depuis les anciennes consoles Nintendo, Sony et Microsoft pour vous permettre d'y jouer sur PC. Sans émulateur.",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "Microsoft"
+   ]
+  },
+  {
+   "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+   "link": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+   "date": "2026-10-27T14:09:46+00:00",
+   "summary": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "exploit"
+   ]
+  },
+  {
+   "title": "Le gouvernement appelle à la reprise des cours et maintient le dialogue avec les organisations",
+   "link": "https://www.journaldunet.com/business/action-publique/1557235-le-gouvernement-appelle-a-la-reprise-des-cours-et-maintient-le-dialogue-avec-les-organisations/",
+   "date": "2026-10-27T14:07:14+00:00",
+   "summary": "Malgré la mobilisation lycéenne et étudiante, le gouvernement appelle à la reprise des cours et maintient le dialogue, alors que ses mesures sont jugées insuffisantes par les organisations.",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Après Ledger, deux autres géants des portefeuilles crypto victimes d’un incident de sécurité",
+   "link": "https://www.01net.com/actualites/apres-ledger-deux-autres-geants-des-portefeuilles-crypto-victimes-dun-incident-de-securite.html",
+   "date": "2026-10-27T14:04:33+00:00",
+   "summary": "Après Ledger, deux autres fabricants réputés de portefeuilles crypto, Foundation et Keystone, viennent d'être victimes des pirates. Les données des clients ont été subtilisées, mais les harware wallets n'ont pas été compromis.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "cyber",
+   "tags": [
+    "sécurité",
+    "incident"
+   ]
+  },
+  {
+   "title": "Apple refreshes the iMac with M6 chips",
+   "link": "https://www.theverge.com/tech/1018467/apple-imac-m6-chip-announced-price-release",
+   "date": "2026-10-27T14:03:35+00:00",
+   "summary": "Apple is updating the iMac with M6 chips. The new iMac generation was introduced today, giving Apple's all-in-one desktop computer a performance boost via the same chipset Apple launched with the Mac Mini in August. Prices start from $1,499, and the design otherwise appears largely unchanged. The update was announced …",
+   "source": "The Verge",
+   "lang": "en",
+   "cat": "tech",
+   "tags": [
+    "Apple"
+   ]
+  },
+  {
+   "title": "Hackers Abuse Signed ChatGPT and Claude Binaries to Deploy Malware Through Fake GitHub Downloads",
+   "link": "https://cybersecuritynews.com/fake-github-chatgpt-claude-malware/",
+   "date": "2026-10-27T14:02:29+00:00",
+   "summary": "A malware campaign known as Yoba targets users by leveraging the popularity of AI tools like ChatGPT and Claude to trick them into installing infected software. They publish fake GitHub projects that pose as desktop apps named GPT-5.6 Sol, GPT-6 Astra, and Claude Opus. Because the projects sit on GitHub, a platform …",
+   "source": "CyberSecurityNews",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
+   "link": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
+   "date": "2026-10-27T14:01:11+00:00",
+   "summary": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest, highlighting which attack techniques deserve immediate attention and which remain …",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
+   "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+   "date": "2026-10-27T14:00:49+00:00",
+   "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": [
+    "Apple"
+   ]
+  },
+  {
+   "title": "Deux Français ont bâti Vera, le \"ChatGPT des médecins\", et lèvent 28,5 millions de dollars",
+   "link": "https://www.journaldunet.com/intelligence-artificielle/1557223-vera-health-boucle-sa-serie-a-et-porte-ses-fonds-leves-a-32-millions-de-dollars/",
+   "date": "2026-10-27T14:00:15+00:00",
+   "summary": "Vera Health, basée à San Francisco, porte ses fonds levés à 32 millions de dollars. Gratuite pour les soignants, son IA revendique 800 000 utilisateurs, dont un médecin sur sept en France.",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "title": "We&#8217;ve had touchscreen laptops for years. Can Apple make them better?",
+   "link": "https://www.theverge.com/tech/1019288/apple-event-la-macbook-pro-touchscreen-questions",
+   "date": "2026-10-27T13:59:35+00:00",
+   "summary": "A fridge is about to be merged with a toaster. Dogs and cats are soon to be living together. But it's not mass hysteria; Apple is expected to finally announce a touchscreen MacBook tomorrow at its \"Pro and Tell\" event. A laptop with a touchscreen should be no big deal - we've had them for […]",
+   "source": "The Verge",
+   "lang": "en",
+   "cat": "tech",
+   "tags": [
+    "Apple"
+   ]
+  },
+  {
+   "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+   "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+   "date": "2026-10-27T13:50:51+00:00",
+   "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI …",
+   "source": "The Verge",
+   "lang": "en",
+   "cat": "tech",
+   "tags": [
+    "OpenAI",
+    "Apple"
+   ]
+  },
+  {
+   "title": "Le film BioShock en plein cauchemar, le réalisateur balance sur le chaos chez Netflix",
+   "link": "https://www.numerama.com/pop-culture/2361479-le-film-bioshock-en-plein-cauchemar-le-realisateur-balance-sur-le-chaos-chez-netflix.html",
+   "date": "2026-10-27T13:37:52+00:00",
+   "summary": "Quatre ans après l'annonce triomphale d'une adaptation live-action du chef-d'œuvre vidéo-ludique BioShock par Netflix, les caméras ne tournent toujours pas. Et pour cause : adapter la cité sous-marine de Rapture sur grand écran s'avère être un enfer de production.",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Volkswagen hésiterait entre la Chine et Rivian pour le cerveau de ses futures voitures",
+   "link": "https://www.numerama.com/vroom/2361625-volkswagen-hesiterait-entre-la-chine-et-rivian-pour-le-cerveau-de-ses-futures-voitures.html",
+   "date": "2026-10-27T13:36:36+00:00",
+   "summary": "Volkswagen étudierait la possibilité de déployer en Europe une architecture électronique développée en Chine pour ses futurs modèles. Une hypothèse qui pourrait porter un sacré coup au partenariat avec Rivian.",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Sculpture recreates odd optical effects of famed Lycurgus Cup",
+   "link": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
+   "date": "2026-10-27T13:32:35+00:00",
+   "summary": "University of Sheffield researchers figured out how to recreate the 1600-year-old glass recipe.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Changer de smartphone ou de PC ? 3 offres E.Leclerc à regarder avant le 8 novembre [Sponso]",
+   "link": "https://www.frandroid.com/produits-android/smartphone/3295819_jusqua-200-e-de-moins-voici-ce-que-proposent-les-offres-tech-et-gaming-de-leclerc",
+   "date": "2026-10-27T13:32:02+00:00",
+   "summary": "Le Samsung Galaxy S26 FE passe sous les 650 € sur le site E.Leclerc. Cette réduction provient d'une opération tech et gaming qui se durera jusqu’au 8 novembre. Des promotions sur les PC portables MSI sont également au programme, en plus de réductions qui peuvent atteindre -20% sur une sélection de produits.",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "smartphone"
+   ]
+  },
+  {
+   "title": "Le tout récent Oppo Reno 16 F, idéal pour la création de contenus, est déjà 170 € moins cher",
+   "link": "https://www.frandroid.com/bons-plans/3300363_endurant-et-ideal-pour-la-creation-de-contenus-le-tout-recent-oppo-reno-16-f-profite-deja-dune-remise-de-170-e",
+   "date": "2026-10-27T13:29:00+00:00",
+   "summary": "Cinq mois après avoir dévoilé sa gamme Reno 15, Oppo a lancé sa gamme Reno 16, dont le Reno 16 F fait partie. Ce smartphone, le moins cher de la série, affiche déjà un prix en baisse : Carrefour le propose à 529,99 euros au lieu de 699 euros.",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "smartphone"
+   ]
+  },
+  {
+   "title": "Apple dévoile l’iMac M6 : plus de puissance, mais pas de révolution au menu",
+   "link": "https://www.01net.com/actualites/apple-devoile-limac-m6-des-gains-de-performances-mais-pas-de-revolution.html",
+   "date": "2026-10-27T13:28:21+00:00",
+   "summary": "Près de deux ans après la sortie du dernier iMac, Apple a officiellement dévoilé l’iMac M6. Celui-ci promet d’excellentes performances grâce à sa puce M6. Spécificités, prix, date de commercialisation : voici tout ce qu’il faut savoir.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "Apple"
+   ]
+  },
+  {
+   "title": "Ford’s sub-$30K electric truck puts the home backup inverter right inside the vehicle",
+   "link": "https://www.theverge.com/transportation/1018784/ford-fathom-bidirectional-charging-inverter-power-station-cost",
+   "date": "2026-10-27T13:23:13+00:00",
+   "summary": "We're still a few months away from the official reveal of the Ford Fathom, the automaker's first next-generation electric vehicle. While we wait, Ford has been whetting our appetite with news about the sub-$30,000 pickup - including today's announcement about the Fathom's bidirectional charging capabilities. With an …",
+   "source": "The Verge",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "US officials want Section 702 renewed before damaging court ruling goes public",
+   "link": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
+   "date": "2026-10-27T13:22:16+00:00",
+   "summary": "Senators say officials hid a ruling on warrantless searches past its release deadline.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Apple lance son MacBook Pro 14 pouces avec la puce M6 : seulement trois nouveautés au programme",
+   "link": "https://www.frandroid.com/marques/apple/3300481_apple-lance-son-macbook-pro-14-pouces-avec-la-puce-m6-une-mise-a-jour-timide-avant-le-grand-soir",
+   "date": "2026-10-27T13:20:08+00:00",
+   "summary": "Apple a annoncé ce mardi 27 octobre un MacBook Pro 14 pouces avec puce M6, vendu à partir de 2 299 euros. Il garde le design du modèle M5 et sort la veille de l'événement « Pro and tell » consacré aux Mac.",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "Apple"
+   ]
+  },
+  {
+   "title": "Apple lance le MacBook Pro M6 : prix, date de sortie, fiche technique….voici tout ce qu’il faut savoir",
+   "link": "https://www.01net.com/actualites/macbook-pro-m6-prix-fiche-technique-date-de-sortie.html",
+   "date": "2026-10-27T13:14:03+00:00",
+   "summary": "Apple vient de lever le voile sur le MacBook Pro 14 pouces avec puce M6. L'ordinateur se distingue par une nouvelle puce qui promet plus de puissance et une meilleure autonomie. Prix, date de sortie, fiche technique complète...On vous dit tout ce qu'il faut savoir sur le nouvel ordinateur d'Apple.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "Apple"
+   ]
+  },
+  {
+   "title": "Nintendo Switch Online : prix, jeux, fonctionnalités, avantages… Tout ce qu’il faut savoir sur le service en ligne de Nintendo",
+   "link": "https://www.frandroid.com/marques/nintendo/1296269_tout-savoir-sur-le-nintendo-switch-online-prix-jeux-avantages-dlc",
+   "date": "2026-10-27T13:08:02+00:00",
+   "summary": "Que l'on ait une Nintendo Switch ou une Nintendo Switch 2, on peut s'abonner au Nintendo Switch Online, un équivalent du Game Pass ou du PlayStation Plus, mais exclusivement réservé à la console phare de Big N. Voici tout ce qu'il faut savoir sur le Nintendo Switch Online.",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "En attendant le premier Mac tactile, Apple met à jour les MacBook Pro et iMac avec la puce M6",
+   "link": "https://www.numerama.com/tech/2361025-en-attendant-le-premier-mac-tactile-apple-met-a-jour-les-macbook-pro-et-imac-avec-la-puce-m6.html",
+   "date": "2026-10-27T13:06:22+00:00",
+   "summary": "Un jour après l'iPad mini, Apple dévoile par communiqué de presse un nouveau MacBook Pro et un nouvel iMac, tous les deux équipés de la puce M6. Le très attendu MacBook Pro à écran tactile n'est pas encore là : il devrait être dévoilé mercredi à Los Angeles. Numerama est sur place.",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "Apple"
+   ]
+  },
+  {
+   "title": "Apple continue les annonces : l’iMac passe à la puce M6",
+   "link": "https://www.frandroid.com/marques/apple/3300475_apple-continue-les-annonces-limac-passe-a-la-puce-m6",
+   "date": "2026-10-27T13:06:14+00:00",
+   "summary": "Après l'annonce de l'iPad mini, et avant son événement « Pro and Tell », Apple annonce deux nouveaux produits ce mardi 27 octobre. Tout d'abord, un nouvel iMac équipé de la puce Apple M6.",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "Apple"
+   ]
+  },
+  {
+   "title": "150 Nm, 1 500 W, sans dérailleur : le VTT électrique de tous les excès",
+   "link": "https://www.frandroid.com/survoltes/velo-electrique/3300445_150-nm-1-500-w-sans-derailleur-le-vtt-electrique-de-tous-les-exces",
+   "date": "2026-10-27T13:03:23+00:00",
+   "summary": "En optant pour le moteur-boîte à variation continue de Gobao, l’Alutech ePelmo X1P devient le premier VTTAE annoncé avec ce système, pour des livraisons au printemps 2027.",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Déclarée « conforme » par Citroën, sa ë-C3 Aircross cache pourtant une batterie amputée de 6 kWh",
+   "link": "https://www.frandroid.com/marques/citroen/3300371_declaree-conforme-par-citroen-sa-e-c3-aircross-cache-pourtant-une-batterie-amputee-de-6-kwh",
+   "date": "2026-10-27T12:57:16+00:00",
+   "summary": "Un conducteur a acheté une Citroën ë-C3 Aircross, dont la batterie est annoncée à 44,2 kWh bruts. Le diagnostic officiel qu’il a fini par obtenir n’en mesure que 38,1 kWh. De son côté, le constructeur reste silencieux.",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Le Xiaomi Smart Band 11 arrive enfin en Europe, mais pas encore dans tous les pays",
+   "link": "https://www.01net.com/actualites/xiaomi-smart-band-11-arrive-enfin-en-europe.html",
+   "date": "2026-10-27T12:48:44+00:00",
+   "summary": "La Xiaomi Smart Band 11 débarque enfin en Europe, avec une version NFC en option. Le dernier bracelet connecté de la marque chinoise affiche un prix de départ de 59,99 euros.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Fujifilm’s Instax Mini Evo 2 adds a touchscreen and video recording",
+   "link": "https://www.theverge.com/gadgets/1019300/fujifilm-instax-mini-evo-2-instant-camera-price-availability",
+   "date": "2026-10-27T12:31:33+00:00",
+   "summary": "Fujifilm is trying to find the right balance of fun and photography with its latest hybrid instant camera. Like its predecessor, the Instax Mini Evo 2 feels less like a retro gimmick, and more like a basic digital camera that just happens to have a built-in printer. It also enjoys some key upgrades: a larger […]",
+   "source": "The Verge",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Sur World of Warcraft Forever, vous pouvez réserver votre pseudo, mais il faut payer",
+   "link": "https://www.numerama.com/pop-culture/2361583-sur-world-of-warcraft-forever-vous-pouvez-reserver-votre-pseudo-mais-il-faut-payer.html",
+   "date": "2026-10-27T12:31:00+00:00",
+   "summary": "Depuis ce mardi 27 octobre à 18 h, les joueurs de World of Warcraft: Forever peuvent réserver jusqu'à trois noms de personnages, et ce jusqu'au 3 novembre. Le jeu est inclus dans l'abonnement, mais la réservation demande d'avoir acheté un pack à 29,99 euros minimum.",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Après les pillages, Micromania annule ses nocturnes Zelda: Ocarina of Time et tire au sort ses boîtes Nintendo 64",
+   "link": "https://www.frandroid.com/marques/3300457_apres-les-pillages-micromania-annule-ses-nocturnes-zelda-ocarina-of-time-et-tire-au-sort-ses-boites-nintendo-64",
+   "date": "2026-10-27T12:30:05+00:00",
+   "summary": "Micromania a annulé ce mardi 27 octobre ses ouvertures de minuit pour la sortie de The Legend of Zelda: Ocarina of Time sur Switch 2, et remplace la réplique de boîte Nintendo 64 promise par un tirage au sort de 5 000 exemplaires. Son magasin de Nice, qui faisait partie de la liste, a été pillé le 17 octobre.",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+   "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+   "date": "2026-10-27T12:09:50+00:00",
+   "summary": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account. Microsoft tracks the flaw as CVE-2026-80097 and fixed it in Authenticator for Android version 6.2606.4246 …",
+   "source": "The Hacker News",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "CVE"
+   ]
+  },
+  {
+   "title": "Un Tesla Cybertruck confisqué en Allemagne : la ruse de la plaque polonaise n’a pas suffi",
+   "link": "https://www.numerama.com/vroom/2361505-un-tesla-cybertruck-confisque-en-allemagne-la-ruse-de-la-plaque-polonaise-na-pas-suffi.html",
+   "date": "2026-10-27T12:05:00+00:00",
+   "summary": "Un conducteur suédois a été arrêté dans la nuit du 24 au 25 octobre 2026 sur une autoroute bavaroise, au volant d'un Tesla Cybertruck de 4,2 tonnes alors que son permis B ne l'autorisait pas à conduire.",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Un tournant historique pour l’IA : Anthropic s’apprête à entrer en Bourse avec une croissance monstrueuse",
+   "link": "https://www.01net.com/actualites/un-tournant-historique-pour-lia-anthropic-sapprete-a-entrer-en-bourse-avec-une-croissance-monstrueuse.html",
+   "date": "2026-10-27T12:00:25+00:00",
+   "summary": "Anthropic entre dans la dernière ligne droite avant son introduction en Bourse. Pourtant, si son chiffre d'affaires est en explosion, elle a perdu plus de 80 milliards de dollars au premier semestre 2026.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "title": "Microsoft propose un plan de départ volontaire à 60 000 salariés pour faire des économies",
+   "link": "https://www.01net.com/actualites/microsoft-propose-un-plan-de-depart-volontaire-a-60-000-salaries-pour-faire-des-economies.html",
+   "date": "2026-10-27T11:51:11+00:00",
+   "summary": "Microsoft vient d’officialiser la mise en place d’un programme de départs volontaires concernant environ 60 000 salariés potentiellement éligibles. Ce projet, qui concerne quelque 27 % de ses effectifs, concerne des employés aux États-Unis, au Royaume-Uni, au Canada et en Inde.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "Microsoft"
+   ]
+  },
+  {
+   "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+   "link": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
+   "date": "2026-10-27T11:46:00+00:00",
+   "summary": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on October 26. Someone with that key could build counterfeit devices that pass the online check owners use to verify a Keystone. A buyer who trusted a …",
+   "source": "The Hacker News",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "Le mouvement #SaveMassEffect est en train de prendre des proportions immenses",
+   "link": "https://www.numerama.com/pop-culture/2361357-le-mouvement-savemasseffect-est-en-train-de-prendre-des-proportions-immenses.html",
+   "date": "2026-10-27T11:45:00+00:00",
+   "summary": "L'initiative pour sauver Mass Effect de la disparition est en train de prendre des proportions inattendues. Ce lundi 26 octobre, des fans se sont offert un écran publicitaire à Times Square, à New York, pour se faire entendre.",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Microsoft propose à 60 000 salariés de partir : l’apocalypse de l’emploi liée à l’IA a-t-elle commencé ?",
+   "link": "https://www.numerama.com/tech/2361585-microsoft-propose-a-60-000-salaries-de-partir-lapocalypse-de-lemploi-liee-a-lia-a-t-elle-commence.html",
+   "date": "2026-10-27T11:40:00+00:00",
+   "summary": "Microsoft ouvre un programme de départs volontaires à plus d’un quart de ses effectifs, alors qu’il prévoit 175 milliards de dollars d’investissements en 2026. Dans la tech, les entreprises réduisent leurs équipes et comptent sur l’IA pour travailler avec moins de salariés. Mais elles cherchent aussi à financer une …",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "IA",
+    "Microsoft"
+   ]
+  },
+  {
+   "title": "Critical HashiCorp Consul Kubernetes Flaw Allows Attackers to Gain Elevated Privileges",
+   "link": "https://cybersecuritynews.com/hashicorp-consul-kubernetes-vulnerability/",
+   "date": "2026-10-27T11:37:34+00:00",
+   "summary": "HashiCorp has released fixes for a Consul-k8s authorization bypass that could allow an attacker to gain elevated Consul privileges from another Kubernetes namespace. Tracked as CVE-2026-110720, the flaw affects deployments using automated system access control list management. HashiCorp disclosed the issue on October …",
+   "source": "CyberSecurityNews",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "CVE"
+   ]
+  },
+  {
+   "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+   "link": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+   "date": "2026-10-27T11:32:46+00:00",
+   "summary": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific employees or organizations. Some fake login pages go beyond stealing passwords. They can also …",
+   "source": "The Hacker News",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "phishing"
+   ]
+  },
+  {
+   "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+   "link": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+   "date": "2026-10-27T11:32:31+00:00",
+   "summary": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors. According to Russian cybersecurity company Kaspersky, the …",
+   "source": "The Hacker News",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "title": "Module Zvezda : le sas de l’ISS condamné définitivement à cause de microfissures impossibles à colmater",
+   "link": "https://www.numerama.com/sciences/2361331-module-zvezda-le-sas-de-liss-condamne-definitivement-a-cause-de-microfissures-impossibles-a-colmater.html",
+   "date": "2026-10-27T11:25:00+00:00",
+   "summary": "Au cœur de nombreux problèmes depuis des années, le module Zvezda, à bord de la Station spatiale internationale, voit son sas définitivement condamné en raison de fuites d'air.",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Clients tricheurs, jet privé, fourmis : 11 infos à retenir (ou pas) sur l'IPO d'Anthropic, par Claude",
+   "link": "https://www.journaldunet.com/intelligence-artificielle/1557215-clients-tricheurs-jet-prive-claude-qui-code-tout-la-revue-de-presse-de-l-ipo-d-anthropic-par-claude/",
+   "date": "2026-10-27T11:24:17+00:00",
+   "summary": "Depuis la divulgation du S-1 de l'entrée en bourse d'Anthropic, les analyses et découvertes se sont multipliées. Le JDN a confié à Claude la tâche de sélectionner les meilleures.",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+   "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+   "date": "2026-10-27T11:15:19+00:00",
+   "summary": "Apple released iOS 27.2 and iPadOS 27.2 on October 26, 2026, with fixes for 163 security flaws. The update covers iPhone 11 and later and a wide set of iPad models. The most serious issues sit in WebKit, the engine behind Safari and most in-app browsers on Apple devices. Apple says malicious web content could […] The …",
+   "source": "CyberSecurityNews",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "iPhone Duo : Apple tient l’une des promesses phares de la keynote",
+   "link": "https://www.01net.com/actualites/iphone-duo-apple-tient-lune-des-promesses-phares-de-la-keynote.html",
+   "date": "2026-10-27T11:15:02+00:00",
+   "summary": "Apple l’avait promis lors de sa keynote de rentrée, c’est désormais chose faite : l’iPhone Duo est compatible avec l’Apple Pencil USB-C grâce à la mise à jour iOS 27.2. Voici comment apparier les deux appareils.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "Apple"
+   ]
+  },
+  {
+   "title": "Hackers Hijack AI Pentesting Agents to Install Backdoors and Steal API Keys",
+   "link": "https://cybersecuritynews.com/ai-pentesting-agents/",
+   "date": "2026-10-27T10:57:16+00:00",
+   "summary": "Hackers are now targeting the AI tools that security teams use to test their own networks. A new investigation describes automated campaigns that break into exposed panels for Cairn, a platform that gives AI agents goals and lets them work on their own. Once inside, the attackers push new tasks into those agents. …",
+   "source": "CyberSecurityNews",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "iPhone 18e : sur cette fonctionnalité très attendue, Apple ne ferait aucun effort",
+   "link": "https://www.01net.com/actualites/iphone-18e-apple-ferait-aucun-effort-sur-ecran.html",
+   "date": "2026-10-27T10:51:50+00:00",
+   "summary": "Les premières fuites autour de l'iPhone 18e dessinent le portrait d'un smartphone qui miserait sur la puissance, mais conserverait un écran avec un taux de rafraichissement famélique.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "Apple",
+    "smartphone"
+   ]
+  },
+  {
+   "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
+   "link": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
+   "date": "2026-10-27T10:36:12+00:00",
+   "summary": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "exploit",
+    "zero-day"
+   ]
+  },
+  {
+   "title": "Un ChatGPT moins cher et plus puissant : le nouveau modèle GPT-6.1 Terra d’OpenAI a trouvé sa recette",
+   "link": "https://www.01net.com/actualites/un-chatgpt-moins-cher-et-plus-puissant-le-nouveau-modele-gpt-6-1-terra-dopenai-a-trouve-sa-recette.html",
+   "date": "2026-10-27T10:36:05+00:00",
+   "summary": "OpenAI a présenté ce lundi 26 octobre GPT-6.1 Terra, un nouveau modèle de langage intermédiaire conçu pour comprendre ce qui s'affiche sur votre écran. De quoi prendre le contrôle de votre ordinateur... pour travailler à votre place.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "OpenAI"
+   ]
+  },
+  {
+   "title": "Apple Released Patches for Exploited CoreGraphics 0-day Vulnerability for Older iPhones",
+   "link": "https://cybersecuritynews.com/apple-fix-for-coregraphics-0-day-flaw/",
+   "date": "2026-10-27T09:44:36+00:00",
+   "summary": "Apple released iOS 18.7.11 and iPadOS 18.7.11 to patch a CoreGraphics zero-day vulnerability that attackers may have used in targeted attacks. Released on October 26, 2026, the updates bring security fixes to older devices, including the iPhone XS, iPhone XS Max, iPhone XR, and seventh-generation iPad, according to …",
+   "source": "CyberSecurityNews",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "exploit",
+    "zero-day"
+   ]
+  },
+  {
+   "title": "\"Dans dix ans, Spendesk sera une solution très différente de celle d'aujourd'hui\"",
+   "link": "https://www.journaldunet.com/fintech/1556875-dans-dix-ans-spendesk-sera-une-solution-tres-differente-de-celle-d-aujourd-hui/",
+   "date": "2026-10-27T09:39:35+00:00",
+   "summary": "A l'occasion des dix ans de Spendesk, Rodolphe Ardant, fondateur, et Axel Demazy, CEO, reviennent sur le chemin parcouru par la plateforme de gestion des dépenses et évoquent ses prochains défis.",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Apple to replace iPhone Duos affected by screen problem",
+   "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T09:37:55+00:00",
+   "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+   "source": "BBC Technology",
+   "lang": "en",
+   "cat": "tech",
+   "tags": [
+    "Apple"
+   ]
+  },
+  {
+   "title": "Google Photos 7.97 permet enfin de personnaliser l’onglet « Collections » : voici comment faire",
+   "link": "https://www.01net.com/actualites/google-photos-permet-personnaliser-onglet-collections-voici-comment-faire.html",
+   "date": "2026-10-27T09:36:33+00:00",
+   "summary": "Google Photos déploie une mise à jour importante sur Android pour refondre entièrement son onglet Collections. L'interface fait la part belle à la personnalisation en permettant de trier et d'épingler vos dossiers favoris.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "Google",
+    "Android"
+   ]
+  },
+  {
+   "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
+   "link": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
+   "date": "2026-10-27T09:33:06+00:00",
+   "summary": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators gained access to the criminal's operation's backend and cut it off from those computers. \"The next …",
+   "source": "The Hacker News",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "title": "Energy giant ENGIE discloses data breach affecting customers",
+   "link": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+   "date": "2026-10-27T09:25:50+00:00",
+   "summary": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "breach"
+   ]
+  },
+  {
+   "title": "L'AMF accorde une dérogation à l'Etat pour recapitaliser Eramet sans OPA",
+   "link": "https://www.journaldunet.com/economie/industrie/1557209-l-amf-accorde-une-derogation-a-l-etat-pour-recapitaliser-eramet-sans-opa/",
+   "date": "2026-10-27T09:11:04+00:00",
+   "summary": "L'AMF accorde une dérogation exceptionnelle à la réglementation boursière pour permettre à l'Etat de recapitaliser Eramet, en raison de ses graves difficultés financières.",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Hacker Uses AI to Breach 90 South Korean Organizations and Steal 8.2 Million Records",
+   "link": "https://cybersecuritynews.com/hacker-uses-ai-to-breach-organizations/",
+   "date": "2026-10-27T09:05:42+00:00",
+   "summary": "South Korean police have arrested a 32-year-old man accused of leading an AI-assisted hacking operation that stole personal records and internal files from about 90 organizations, totaling 8.2 million records. Targets included hospitals, private academies, golf courses, universities, and large companies’ affiliates. …",
+   "source": "CyberSecurityNews",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "breach"
+   ]
+  },
+  {
+   "title": "Le gouvernement des Pays-Bas prévoit de réduire de 16% la fonction publique d'ici 2035",
+   "link": "https://www.journaldunet.com/business/action-publique/1557207-le-gouvernement-des-pays-bas-prevoit-de-reduire-de-16-la-fonction-publique-d-ici-2035/",
+   "date": "2026-10-27T09:04:42+00:00",
+   "summary": "L'exécutif hollandais prévoit de réduire de 16% l'effectif de la fonction publique, hors police et armée, pour réaliser 3,9 milliards d'euros d'économies.",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Fêtes de fin d'année : les budgets repartent à la hausse, le Black Friday gagne du terrain",
+   "link": "https://www.journaldunet.com/retail/1557155-fetes-de-fin-d-annee-les-budgets-repartent-a-la-hausse-le-black-friday-gagne-du-terrain/",
+   "date": "2026-10-27T09:01:34+00:00",
+   "summary": "Pour préserver leurs fêtes dans un contexte inflationniste, les Français comptent anticiper et faire la chasse aux promotions tandis que les moins de 35 ans ont recours à l'IA.",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "title": "Le gouvernement présente des mesures mais les organisations lycéennes maintiennent la mobilisation",
+   "link": "https://www.journaldunet.com/business/action-publique/1557205-le-gouvernement-presente-des-mesures-mais-les-organisations-lyceennes-maintiennent-la-mobilisation/",
+   "date": "2026-10-27T08:56:58+00:00",
+   "summary": "Malgré des annonces majeures, les organisations lycéennes maintiennent la pression et appellent à poursuivre la mobilisation.",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Le Sénat examine le projet de loi \"casseurs-payeurs\" soutenu par le gouvernement",
+   "link": "https://www.journaldunet.com/business/action-publique/1557203-le-senat-examine-le-projet-de-loi-casseurs-payeurs-soutenu-par-le-gouvernement/",
+   "date": "2026-10-27T08:52:52+00:00",
+   "summary": "Le texte, soutenu par le gouvernement, vise à instaurer une responsabilité solidaire financière pour les membres de groupes impliqués dans des dégradations lors de mobilisations sociales.",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Tesla Roadster : prix, versions, date de sortie… tout savoir sur la voiture volante d’Elon Musk",
+   "link": "https://www.01net.com/actualites/tesla-roadster-prix-versions-date-de-sortie-tout-savoir-sur-la-voiture-volante-delon-musk.html",
+   "date": "2026-10-27T08:48:45+00:00",
+   "summary": "Versions, prix, date de sortie, propulseurs et homologation en France : tout savoir sur le Tesla Roadster, la voiture qui vole d’Elon Musk.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Alibaba’s Qwen AI Said It Wouldn’t Execute Commands, Then Tried to Send Data to China",
+   "link": "https://cybersecuritynews.com/alibabas-qwen-ai-tried-to-send-data-to-china/",
+   "date": "2026-10-27T08:47:46+00:00",
+   "summary": "Alibaba’s Qwen3.8-Flash-Next attempted an unexpected upload to an Alibaba Cloud storage bucket in Beijing during a closed security test, according to Cohere. The model’s reasoning had just stated that it would not call any tools. Cohere’s sandbox blocked the connection, and the reported attempt did not send sensitive …",
+   "source": "CyberSecurityNews",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "Agent IA en PME : commencer par ce qu'il ne faut pas automatiser",
+   "link": "https://www.journaldunet.com/intelligence-artificielle/1557165-agent-ia-en-pme-commencer-par-ce-qu-il-ne-faut-pas-automatiser/",
+   "date": "2026-10-27T08:44:39+00:00",
+   "summary": "Un périmètre trop large rend l'agent impossible à tester",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
+   "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
+   "date": "2026-10-27T08:22:43+00:00",
+   "summary": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown. OpenAI's reasoning models work through a problem before answering, and the service normally returns only the raw reasoning as an …",
+   "source": "The Hacker News",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
+   "date": "2026-10-27T08:20:54+00:00",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "exploit"
+   ]
+  },
+  {
+   "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
+   "link": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+   "date": "2026-10-27T06:34:47+00:00",
+   "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP cameras and DVRs with access to the video stream, changing the device configuration and creating third-party accounts have …",
+   "source": "The Hacker News",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "Un médecin contrôlé sur deux ne respecte pas la loi : le cabinet ne doit pas vous facturer ces frais",
+   "link": "https://www.journaldunet.com/magazine/1557057-cd1-enquete-dgccrf/",
+   "date": "2026-10-27T06:05:02+00:00",
+   "summary": "La direction générale de la répression des fraudes vient de publier les résultats d'une vaste enquête. Elle y révèle des pratiques illégales et frauduleuses dans le corps médical.",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+   "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+   "date": "2026-10-27T04:37:59+00:00",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities, both rated 9.2 on the CVSS scoring system, facilitate unauthenticated remote …",
+   "source": "The Hacker News",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "exploit"
+   ]
+  },
+  {
+   "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
+   "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
+   "date": "2026-10-27T00:26:50+00:00",
+   "summary": "Measuring AI model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation. But none replace testing against your own code and workflows.",
+   "source": "Dark Reading",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "Microsoft offers to buy out a quarter of its workforce",
+   "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+   "date": "2026-10-26T22:36:06+00:00",
+   "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": [
+    "Microsoft"
+   ]
+  },
+  {
+   "title": "University of Copenhagen data breach exposes data of 525,000 people",
+   "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+   "date": "2026-10-26T22:20:36+00:00",
+   "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "breach"
+   ]
+  },
+  {
+   "title": "Risks &amp; Rewards: How AI Is Redefining the CISO's Role",
+   "link": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
+   "date": "2026-10-26T21:44:33+00:00",
+   "summary": "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks.",
+   "source": "Dark Reading",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "AirFly’s wireless headphone dongle adds a screen to guide you through the pairing process",
+   "link": "https://www.theverge.com/tech/1018679/twelve-south-airfly-view-screen-display-wireless-headphone-earbuds-airplane-adapter",
+   "date": "2026-10-26T21:22:30+00:00",
+   "summary": "Twelve South has announced a new version of its Airfly dongle that simplifies the pairing process when connecting wireless headphones to devices that don't natively support Bluetooth. Instead of having to decode flashing or color-changing LEDs, the new Airfly View adds a built-in screen that displays instructions for …",
+   "source": "The Verge",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
+   "link": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+   "date": "2026-10-26T21:08:28+00:00",
+   "summary": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "breach"
+   ]
+  },
+  {
+   "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown",
+   "link": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
+   "date": "2026-10-26T20:59:26+00:00",
+   "summary": "A new AI agent prompt injection technique exploits how coding assistants consume local instruction files, blurring the line between text documents and executable actions.",
+   "source": "Dark Reading",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "exploit"
+   ]
+  },
+  {
+   "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+   "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+   "date": "2026-10-26T20:46:49+00:00",
+   "summary": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
+   "link": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
+   "date": "2026-10-26T20:27:00+00:00",
+   "summary": "Case study gives a whole new meaning to \"bedroom eyes.\"",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
+   "link": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
+   "date": "2026-10-26T20:15:07+00:00",
+   "summary": "Lindsey Fitzharris chats with Ars about her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes .",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+   "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+   "date": "2026-10-26T20:04:16+00:00",
+   "summary": "Included is the ability to limit which applications Siri can directly access.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": [
+    "Apple"
+   ]
+  },
+  {
+   "title": "Sterling Anderson doesn’t think humanoid robots should be building cars",
+   "link": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
+   "date": "2026-10-26T19:58:27+00:00",
+   "summary": "At a splashy event in New York City last week, General Motors unveiled its new tech roadmap centered on AI-driven vehicle development, advanced battery tech, high-powered car computers, and autonomous driving. Some of this was old news: We already knew the automaker was developing hands-free, eyes-off driving …",
+   "source": "The Verge",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+   "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-26T19:57:23+00:00",
+   "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+   "source": "BBC Technology",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "DreamHost forces password resets in ongoing \"incident\"",
+   "link": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+   "date": "2026-10-26T19:26:20+00:00",
+   "summary": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "incident"
+   ]
+  },
+  {
+   "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+   "link": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+   "date": "2026-10-26T19:04:40+00:00",
+   "summary": "Apple claims this is the most significant update ever for the iPad mini line.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": [
+    "Apple"
+   ]
+  },
+  {
+   "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+   "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+   "date": "2026-10-26T18:50:41+00:00",
+   "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": [
+    "robot"
+   ]
+  },
+  {
+   "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+   "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+   "date": "2026-10-26T18:12:22+00:00",
+   "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of code to the store's pages that, when visited by unsuspecting users …",
+   "source": "The Hacker News",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
+   "link": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
+   "date": "2026-10-26T18:09:08+00:00",
+   "summary": "Ukraine says Starshield back to normal, denies misuse of Starlink commercial service.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "'Gheist' Weaponizes GitHub Tokens to Steal Cloud Secrets",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets",
+   "date": "2026-10-26T18:01:40+00:00",
+   "summary": "An ongoing supply chain attack is harvesting credentials and sensitive data from thousands of developer repositories.",
+   "source": "Dark Reading",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+   "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+   "date": "2026-10-26T17:45:57+00:00",
+   "summary": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code. PHP says the flaw can be reached through the cURL extension when the extension …",
+   "source": "The Hacker News",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "CVE"
+   ]
+  },
+  {
+   "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+   "link": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+   "date": "2026-10-26T17:26:36+00:00",
+   "summary": "Investigators explain how highway thieves stole $100M in data center equipment.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+   "link": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+   "date": "2026-10-26T16:27:57+00:00",
+   "summary": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+   "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-26T16:27:17+00:00",
+   "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+   "source": "BBC Technology",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+   "link": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+   "date": "2026-10-26T15:52:40+00:00",
+   "summary": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deliver malware. \"A consistent pattern of attacker behavior has emerged …",
+   "source": "The Hacker News",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "ransomware",
+    "malware"
+   ]
+  },
+  {
+   "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
+   "date": "2026-10-26T15:38:24+00:00",
+   "summary": "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. [...]",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+   "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+   "date": "2026-10-26T14:06:13+00:00",
+   "summary": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, and security teams have more urgent patches than they can keep up with. And …",
+   "source": "The Hacker News",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+   "link": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+   "date": "2026-10-26T14:00:10+00:00",
+   "summary": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "incident"
+   ]
+  },
+  {
+   "title": "10 Software Security Practices Built for the Next 250 Years",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
+   "date": "2026-10-26T14:00:00+00:00",
+   "summary": "This Cybersecurity Awareness Month's theme, \"Securing the Next 250,\" asks us to look beyond vulnerabilities and consider what will make our digital systems resilient for generations.",
+   "source": "Dark Reading",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
+   "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-25T23:44:34+00:00",
+   "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+   "source": "BBC Technology",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  }
+ ]
+}
