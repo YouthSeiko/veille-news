@@ -1,48 +1,28 @@
 {
- "generated_at": "2026-11-19T18:43:08+00:00",
- "date": "2026-11-19",
+ "generated_at": "2026-11-20T18:04:36+00:00",
+ "date": "2026-11-20",
  "sources_total": 14,
- "sources_failed": [],
+ "sources_failed": [
+  "CyberSecurityNews"
+ ],
  "articles": [
   {
-   "title": "Xiaomi 18 Pro Max : à peine sorti, ce smartphone premium avec un écran dorsal s’allège déjà de 300 € pendant le Black Friday",
-   "link": "https://www.frandroid.com/bons-plans/3331435_xiaomi-18-pro-max-a-peine-sorti-ce-smartphone-premium-avec-un-ecran-dorsal-sallege-deja-de-300-e-pendant-le-black-friday",
-   "date": "2026-11-19T18:34:00+00:00",
-   "summary": "Lancé il y a seulement quelques jours en France, le Xiaomi 18 Pro Max profite déjà d'une petite remise à l'approche du Black Friday. Ce smartphone innovant, équipé d'un petit écran au dos, est affiché à 1 503 euros au lieu de 1 803 euros sur Amazon.",
+   "title": "J’ai testé le Haier H65M92FUX : un Mini LED 144 Hz au son signé KEF qui vise la fidélité",
+   "link": "https://www.frandroid.com/marques/haier/3325311_jai-teste-le-haier-h65m92fux-un-mini-led-144-hz-au-son-signe-kef-qui-vise-la-fidelite",
+   "date": "2026-11-20T18:00:00+00:00",
+   "summary": "Haier muscle son offre française avec le H65M92FUX, un téléviseur QLED Mini LED de 65 pouces à 144 Hz, doté d'un système audio KEF et de Google TV. Je l’ai mesuré, évalué et en voici mes impressions.",
    "source": "Frandroid",
    "lang": "fr",
    "cat": "tech",
    "tags": [
-    "smartphone"
+    "Google"
    ]
   },
   {
-   "title": "On peut télécharger l’IA d’OVH taillée pour 8 Go de RAM : ce que valent ses scores face à Mistral",
-   "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3331975_on-peut-telecharger-lia-dovh-taillee-pour-8-go-de-ram-ce-que-valent-ses-scores-face-a-mistral",
-   "date": "2026-11-19T18:29:54+00:00",
-   "summary": "Deux jours après l'avoir présenté, OVHcloud publie son modèle Olala mini en accès libre, avec cette fois des résultats de tests. Le verdict, établi par OVHcloud lui-même : un modèle de milieu de peloton, très bon pour suivre des consignes, moins à l'aise en maths et en sciences, et encore impossible à lancer dans …",
-   "source": "Frandroid",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": [
-    "IA"
-   ]
-  },
-  {
-   "title": "Présidentielle 2027 : les créateurs de contenu devront donner la parole à tous les candidats, l’Arcom a tranché",
-   "link": "https://www.01net.com/actualites/presidentielle-2027-les-createurs-de-contenu-devront-donner-la-parole-a-tous-les-candidats-larcom-a-tranche.html",
-   "date": "2026-11-19T18:29:39+00:00",
-   "summary": "Pour la première fois, les créateurs de contenu devront se plier aux mêmes règles que les télés et les radios. L’Arcom, le gendarme de l’audiovisuel et du numérique, a estimé que les influenceurs vont devoir respecter les règles de pluralisme pendant la campagne présidentielle de 2027. En clair, ils devront accorder …",
-   "source": "01net",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Gemini on Mac can now use your computer",
-   "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-   "date": "2026-11-19T18:24:32+00:00",
-   "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for …",
+   "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
+   "link": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
+   "date": "2026-11-20T17:55:03+00:00",
+   "summary": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices. The Nest app shutdown takes place on January 25th, 2027, meaning you'll have to manage your Nest …",
    "source": "The Verge",
    "lang": "en",
    "cat": "tech",
@@ -51,14 +31,1093 @@
    ]
   },
   {
-   "title": "Amazon is pushing alerts opposing NYC’s Delivery Protection Act",
-   "link": "https://www.theverge.com/tech/1037813/amazon-is-pushing-alerts-to-shoppers-opposing-nycs-delivery-protection-act",
-   "date": "2026-11-19T18:24:00+00:00",
-   "summary": "Amazon is serving up push notifications and banners on its home page to some users, warning that a new bill could add up to $5 per order in New York City. The Delivery Protection Act, which is backed by Mayor Zohran Mamdani and a number of labor groups, including the Teamsters, would require Amazon to […]",
+   "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+   "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T17:36:29+00:00",
+   "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+   "source": "BBC Technology",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Les prix du stockage atteignent des sommets, mais ce SSD NVMe Acer de 1 To chute sous les 155 € en plein Black Friday",
+   "link": "https://www.frandroid.com/bons-plans/3333521_les-prix-du-stockage-atteignent-des-sommets-mais-ce-ssd-nvme-acer-de-1-to-chute-sous-les-155-e-en-plein-black-friday",
+   "date": "2026-11-20T17:36:00+00:00",
+   "summary": "Alors que la crise du stockage ne semble pas se calmer, le prix du SSD NVMe Acer Predator GM7 de 1 To, lui, est en baisse. Amazon le propose à 154,99 euros au lieu de 179,99 euros pendant le Black Friday.",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Comment El Niño bouleverse le climat : les explications d’un climatologue (VIDÉO)",
+   "link": "https://www.numerama.com/sciences/2380449-comment-el-nino-bouleverse-le-climat-les-explications-dun-climatologue-video.html",
+   "date": "2026-11-20T17:35:02+00:00",
+   "summary": "Alors que l'épisode El Niño bouscule les moyennes thermiques globales, le climatologue Éric Guilyardi décrypte auprès de Numerama le fonctionnement de cette anomalie océanique majeure.",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
+   "link": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
+   "date": "2026-11-20T17:33:59+00:00",
+   "summary": "A new pair of AirPods or the latest Apple Watch can make a great holiday gift, but they can also take a pretty big dent out of your budget. That’s especially true this year, as rising hardware prices have made MacBooks and other Apple devices even more expensive. Fortunately, Black Friday offers a chance to […]",
+   "source": "The Verge",
+   "lang": "en",
+   "cat": "tech",
+   "tags": [
+    "Apple"
+   ]
+  },
+  {
+   "title": "GTA 6 refuse de se lancer sur certaines PS5, les joueurs sont désemparés",
+   "link": "https://www.01net.com/actualites/gta-6-refuse-de-se-lancer-sur-certaines-ps5-les-joueurs-sont-desempares.html",
+   "date": "2026-11-20T17:32:24+00:00",
+   "summary": "Alors qu’ils venaient d’acheter GTA 6 sur PS5, certains joueurs se sont retrouvés devant un code d’erreur, dès la cinématique d’ouverture du jeu. Certains d’entre eux affirment avoir tout essayé pour résoudre le problème, sans succès.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+   "date": "2026-11-20T17:30:00+00:00",
+   "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "zero-day"
+   ]
+  },
+  {
+   "title": "Volkswagen, Tesla, DS, Alpine : une semaine où les grandes ambitions ont pris du plomb dans l’aile",
+   "link": "https://www.frandroid.com/survoltes/voitures-electriques/3333639_volkswagen-tesla-ds-alpine-une-semaine-ou-les-grandes-ambitions-ont-pris-du-plomb-dans-laile",
+   "date": "2026-11-20T17:18:05+00:00",
+   "summary": "Dans la newsletter Watt Else du 19 novembre 2026, Raphaëlle Baut revient sur une semaine où les ambitions industrielles ont rencontré la réalité des comptes : Volkswagen revoit ses plans de fond en comble, Tesla annonce un virage inattendu pour son usine allemande, et deux marques françaises perdent l'indépendance …",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
+   "link": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
+   "date": "2026-11-20T17:10:15+00:00",
+   "summary": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside a slide-out tray. The company says the EP/BC-1 is the first entry in its new broadcast series […]",
    "source": "The Verge",
    "lang": "en",
    "cat": "tech",
    "tags": []
+  },
+  {
+   "title": "Black Friday 2026 : les pépites tech à moins de 50 € à ne pas rater",
+   "link": "https://www.frandroid.com/bons-plans/3319155_black-friday-les-pepites-tech-a-moins-de-50-euros",
+   "date": "2026-11-20T17:10:12+00:00",
+   "summary": "Pour ce Black Friday, nous avons retenu dix produits à moins de 50 euros : des écouteurs sans fil, des manettes de jeu, une montre connectée, une batterie externe et quelques accessoires du quotidien, avec des remises allant jusqu'à presque -70 %.",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Orphelin de Jensen Huang, Nvidia fait les yeux doux au patron d’un autre géant des puces",
+   "link": "https://www.01net.com/actualites/orphelin-de-jensen-huang-nvidia-fait-les-yeux-doux-au-patron-dun-autre-geant-des-puces.html",
+   "date": "2026-11-20T17:03:59+00:00",
+   "summary": "Sept ans sous les ordres de Jensen Huang, un rachat avorté, puis le trône d'Arm : Nvidia sonde désormais Rene Haas pour succéder à son fondateur déchu. Faute d'avoir pu racheter l'entreprise britannique, le géant en courtise le patron.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Black Friday Amazon : on fait le tri des meilleures offres de la Black Week en temps réel",
+   "link": "https://www.frandroid.com/bons-plans/3329369_black-friday-amazon-on-fait-le-tri-des-meilleures-offres-de-la-black-week-ce-vendredi-20-novembre-2026",
+   "date": "2026-11-20T17:03:52+00:00",
+   "summary": "C'est officiellement la Black Week, la semaine de promotions qui prcécède le Black Friday, et Amazon lâche une tonne d'offres en cette occasion. Bien sûr, on fait le tri en temps réel pour vous proposer uniquement les meilleurs produits Tech aux meilleurs prix.",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "GTA 6 sur PS5 vs PS5 Pro : la différence vaut-elle vraiment l’écart de prix ? Notre analyse en vidéo",
+   "link": "https://www.frandroid.com/marques/sony/3333599_gta-6-sur-ps5-vs-ps5-pro-la-difference-vaut-elle-vraiment-lecart-de-prix-notre-analyse-en-video",
+   "date": "2026-11-20T16:58:59+00:00",
+   "summary": "Alors que Rockstar a sorti son attendu GTA 6, la question de la plateforme idéale se pose. On a comparé les versions PS5 et PS5 Pro pour voir si la différence visuelle justifie réellement l'écart de prix.",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+   "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+   "date": "2026-11-20T16:58:16+00:00",
+   "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company ThreatFabric said it discovered the threat in late October 2026 during an …",
+   "source": "The Hacker News",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+   "date": "2026-11-20T16:57:47+00:00",
+   "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI …",
+   "source": "The Verge",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Le prix de l’excellente caméra DJI Osmo Pocket 3 chute à seulement 259 € pour le Black Friday",
+   "link": "https://www.frandroid.com/bons-plans/3125883_le-prix-de-lexcellente-camera-dji-osmo-pocket-3-chute-a-seulement-259-euros-pour-le-black-friday",
+   "date": "2026-11-20T16:55:14+00:00",
+   "summary": "La DJI Osmo Pocket 3 s'est rapidement imposée auprès des créateurs de contenu grâce à son format miniature et sa stabilisation d'exception. Lancée à 529 euros, mais maintenant plus habituellement vendue au prix de 429 euros, elle s'affiche aujourd'hui à seulement 259 euros grâce à un code promo spécial Black Friday …",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "GTA 6 est disponible en France : suivez le lancement du jeu en direct",
+   "link": "https://www.frandroid.com/produits-android/console/3327829_gta-6-sortie-suivre-en-direct",
+   "date": "2026-11-20T16:54:55+00:00",
+   "summary": "Suivez toutes les informations en direct autour de la sortie imminente de GTA 6.",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "The best early Black Friday deals you can already shop",
+   "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+   "date": "2026-11-20T16:53:52+00:00",
+   "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t necessarily mean you’re …",
+   "source": "The Verge",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Quels sont les meilleurs vélos électriques pas chers en 2026 ? La sélection à moins de 1000 €",
+   "link": "https://www.frandroid.com/guide-dachat/guides-dachat-survoltes/guides-dachat-velos-electriques/1501824_velo-electrique-pas-cher-les-meilleurs-modeles-a-moins-de-1000-euros",
+   "date": "2026-11-20T16:47:06+00:00",
+   "summary": "Vous cherchez un vélo électrique, mais votre budget n'est pas extensif ? Il est tout à fait possible d'acheter un VAE fiable à moindre coût. Encore faut-il savoir où regarder ! Voici donc notre sélection des meilleurs vélos électriques pas chers, pour un budget maximal de 1000 euros.",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Gemini Notebook : Google prépare un mode « coach » qui corrige vos idées sans écrire à votre place",
+   "link": "https://www.frandroid.com/marques/3332613_gemini-notebook-google-prepare-un-mode-coach-qui-corrige-vos-idees-sans-ecrire-a-votre-place",
+   "date": "2026-11-20T16:23:56+00:00",
+   "summary": "Google préparerait trois « modes d'écriture » pour les notes de Gemini Notebook. L'un d'eux transforme l'IA en coach qui conseille sans toucher au texte.",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "IA",
+    "Google"
+   ]
+  },
+  {
+   "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
+   "link": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview",
+   "date": "2026-11-20T16:22:15+00:00",
+   "summary": "If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anything from the virtuosic production team of Trent Reznor and Atticus Ross, but most of the songs on 7LLVSION had been …",
+   "source": "The Verge",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Ce purificateur change de couleur en fonction de la qualité de l’air, et il baisse de prix pour le Black Friday",
+   "link": "https://www.numerama.com/tech/2340843-ce-nouveau-purificateur-change-de-couleur-selon-la-qualite-de-lair-que-vous-respirez-et-son-prix-baisse-deja.html",
+   "date": "2026-11-20T16:22:07+00:00",
+   "summary": "[Deal du jour] Après sa présentation à l’IFA de Berlin en septembre 2026, le purificateur d’air connecté Dreo 530S est déjà en promotion. Amazon le propose à 99,27 € au lieu de 139,99 €.",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Black Friday : vous pouvez avoir jusqu’à 300 € de réduction sur le nouveau Xiaomi 18 Pro 512 Go, un smartphone à double écran inédit",
+   "link": "https://www.frandroid.com/bons-plans/3333327_black-friday-vous-pouvez-avoir-jusqua-300-e-de-reduction-sur-le-nouveau-xiaomi-18-pro-512-go-un-smartphone-a-double-ecran-inedit",
+   "date": "2026-11-20T16:20:00+00:00",
+   "summary": "Le Xiaomi 18 Pro, nouveau smartphone haut de gamme, sort du lot avec son double écran et ses deux capteurs de 200 mégapixels. Sur Amazon, il passe déjà de 1 603 euros à 1 403 euros, et même 1 303 euros pour les membres Prime.",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "smartphone"
+   ]
+  },
+  {
+   "title": "GTA 6 : 25 millions de ventes, 2,36 milliards de dollars… les chiffres fous de son lancement",
+   "link": "https://www.numerama.com/pop-culture/2380025-gta-6-25-millions-de-ventes-236-milliards-de-dollars-les-chiffres-fous-de-son-lancement.html",
+   "date": "2026-11-20T16:15:00+00:00",
+   "summary": "Au lendemain de sa sortie, GTA 6 accumule déjà les records. Ventes records, millions de spectateurs sur Twitch, trafic Internet sous tension et 35 000 élèves absents en Angleterre : voici les premiers chiffres du lancement du jeu de Rockstar.",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Post-quantique : de l'évaluation de maturité au programme de crypto-agilité",
+   "link": "https://www.journaldunet.com/cybersecurite/1558081-post-quantique-de-l-evaluation-de-maturite-au-programme-de-crypto-agilite/",
+   "date": "2026-11-20T16:14:26+00:00",
+   "summary": "Outils d'éditeurs, indice d'un superviseur : les évaluations de maturité post-quantique se multiplient. Six questions pour les lire, et ce qu'un programme de crypto-agilité doit y ajouter.",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Pourquoi l'éco-conception web réduit les coûts d'un site et améliore ses conversions",
+   "link": "https://www.journaldunet.com/management/direction-generale/1558113-le-poids-d-un-site-web-un-cout-que-les-entreprises-ne-voient-pas/",
+   "date": "2026-11-20T16:13:43+00:00",
+   "summary": "Moins de coûts d'hébergement, un site plus rapide qui convertit mieux et un engagement RSE prouvé par la mesure. L'éco-conception web se vérifie sur des indicateurs que toute direction peut suivre.",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "NIS2 et loi Résilience : pourquoi attendre est un risque pour les entreprises et nos données",
+   "link": "https://www.journaldunet.com/cybersecurite/1558041-nis2-et-loi-resilience-pourquoi-attendre-est-un-risque-pour-les-entreprises-et-nos-donnees/",
+   "date": "2026-11-20T16:13:20+00:00",
+   "summary": "Alors que la transposition de NIS2 franchit une nouvelle étape législative, les entreprises ne doivent pas attendre son adoption définitive pour renforcer leur cybersécurité et leur résilience.",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "cyber",
+   "tags": [
+    "cybersécurité",
+    "sécurité"
+   ]
+  },
+  {
+   "title": "Le DPO, sentinelle juridique de la crise cyber",
+   "link": "https://www.journaldunet.com/cybersecurite/1558093-le-dpo-sentinelle-juridique-de-la-crise-cyber/",
+   "date": "2026-11-20T16:12:04+00:00",
+   "summary": "Qualifier la violation, conseiller dans l'urgence, veiller au respect des délais : le DPO n'a pas le temps d'attendre la fin de la crise.",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Post-quantique : les réunions d'aujourd'hui, au cœur des fuites de données de demain ?",
+   "link": "https://www.journaldunet.com/cybersecurite/1558151-post-quantique-les-reunions-d-aujourd-hui-au-coeur-des-fuites-de-donnees-de-demain/",
+   "date": "2026-11-20T16:11:27+00:00",
+   "summary": "Comment protéger les conversations stratégiques en ligne de la menace quantique ? Le temps presse avant le Q-Day.",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
+   "link": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
+   "date": "2026-11-20T16:11:21+00:00",
+   "summary": "\"We don't yet know the number we are able to make, and at what price...\"",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives",
+   "link": "https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director",
+   "date": "2026-11-20T16:08:46+00:00",
+   "summary": "The year is 2022. Vladimir Putin has announced the military draft. In Andrey Zvyagintsev's Minotaur, set in the fictional town of Krasoborsk, a quietly unhappy couple, called Gleb and Galina, carry on with their lives, or try to, geopolitics notwithstanding. For Galina, carrying on means an affair, which we deduce …",
+   "source": "The Verge",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Un Graal des maths vacille : un chercheur d’Anthropic revendique avoir résolu l’hypothèse de Riemann avec l’IA Claude",
+   "link": "https://www.numerama.com/tech/2380265-un-graal-des-maths-tombe-un-chercheur-danthropic-revendique-avoir-resolu-lhypothese-de-riemann-avec-lia-claude.html",
+   "date": "2026-11-20T16:08:44+00:00",
+   "summary": "Un problème à un million de dollars, ouvert depuis 1859, résolu avec une IA ? Levent Alpöge, mathématicien employé par Anthropic, affirme ce vendredi 20 novembre avoir démontré l'hypothèse de Riemann avec Claude. Pour toute preuve, il livre quatorze archives de code que personne n'a encore vérifiées, au lendemain de …",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "title": "Le futur smartphone d’OpenAI aurait un point commun avec l’iPhone",
+   "link": "https://www.01net.com/actualites/le-futur-smartphone-dopenai-aurait-un-point-commun-avec-liphone.html",
+   "date": "2026-11-20T16:01:08+00:00",
+   "summary": "Pour assembler son téléphone centré autour de ChatGPT, OpenAI aurait fait appel à FIH Mobile, une filiale de Foxconn. Ce dernier nom vous dit quelque chose ? Il s'agit du groupe chargé d'assembler les iPhone.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "OpenAI",
+    "smartphone"
+   ]
+  },
+  {
+   "title": "Black Friday : les meilleures offres de ce vendredi (EN DIRECT)",
+   "link": "https://www.numerama.com/tech/2374925-black-friday-les-meilleures-offres-en-direct.html",
+   "date": "2026-11-20T16:00:20+00:00",
+   "summary": "Black Friday 2026 : Amazon, Boulanger et la Fnac ont déjà lancé leurs promos. Nous trions en direct celles qui valent vraiment le coup.",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+   "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+   "date": "2026-11-20T15:58:06+00:00",
+   "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "breach"
+   ]
+  },
+  {
+   "title": "Black Friday : les meilleures offres PC portables (gaming et ultrabooks) pour échapper à la hausse des prix",
+   "link": "https://www.frandroid.com/bons-plans/3302851_black-friday-les-meilleures-offres-pc-portables-gaming-et-ultrabooks",
+   "date": "2026-11-20T15:54:42+00:00",
+   "summary": "Le Black Friday est l'occasion de trouver des PC portables à prix réduit. Cette sélection réunit différents modèles, de l'entrée de gamme à la machine performante pour le gaming. Il y en a donc pour tous les budgets !",
+   "source": "Frandroid",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "GTA 6 : voici la façon la moins chère d’y jouer",
+   "link": "https://www.01net.com/actualites/gta-6-voici-la-facon-la-moins-chere-dy-jouer.html",
+   "date": "2026-11-20T15:46:38+00:00",
+   "summary": "Pas besoin de dépenser plusieurs centaines d'euros dans une console récente pour découvrir GTA 6. Une Xbox One d'occasion, le jeu et quelques heures de cloud gaming suffisent, pour un budget qui peut rester autour de 120 euros. Voici combien il faut prévoir, et ce que l'on sacrifie en échange.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "cloud"
+   ]
+  },
+  {
+   "title": "Album GTA 6 : les CD et vinyles de la bande originale sont sortis, voici où les trouver",
+   "link": "https://www.numerama.com/pop-culture/2334979-album-gta-6-les-cd-et-vinyles-de-la-bande-originale-sont-sortis-voici-ou-les-trouver.html",
+   "date": "2026-11-20T15:43:01+00:00",
+   "summary": "GTA 6 tourne enfin sur vos consoles, et sa musique peut désormais aussi tourner sur votre platine ou votre lecteur de disque. L’album officiel sort aujourd’hui en CD et en vinyle : voici où l’acheter.",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Où écouter la bande originale de GTA 6 en streaming avec Justice et Dua Lipa ?",
+   "link": "https://www.numerama.com/pop-culture/2380051-ou-ecouter-la-bande-originale-de-gta-6-en-streaming-avec-justice-et-dua-lipa.html",
+   "date": "2026-11-20T15:29:59+00:00",
+   "summary": "Grand Theft Auto VI : The Album, la bande originale officielle de GTA 6, est disponible en streaming depuis ce vendredi 20 novembre 2026. L'album réunit 34 morceaux inédits, signés Justice, Dua Lipa, Lana Del Rey ou Travis Scott.",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "\"Google écarte des AI Overviews plusieurs médias leaders\"",
+   "link": "https://www.journaldunet.com/publishers/1558325-google-ecarte-des-ai-overviews-plusieurs-medias-leaders/",
+   "date": "2026-11-20T15:23:46+00:00",
+   "summary": "Clément Pessaux et Pierre Sauvé, experts SEO seniors chez The BlackRoom, expliquent pourquoi l'absence des AIO de plusieurs médias français pourtant présents dans le top 10 des SERP, semble être un choix délibéré de Google.",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "Google"
+   ]
+  },
+  {
+   "title": "UN court cites military Facebook posts while finding Myanmar guilty of genocide",
+   "link": "https://www.theverge.com/policy/1038450/facebook-myanmar-genocide-un",
+   "date": "2026-11-20T15:04:34+00:00",
+   "summary": "In its ruling that Myanmar committed state-sponsored genocide against the Rohingya people in 2016 and 2017, the United Nations' top court says that Facebook played a role in helping Myanmar's military spread hate speech against its Muslim minority. The ruling from the International Court of Justice determined that …",
+   "source": "The Verge",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "OVH, Scaleway, Mistral... Comparatif des inférenceurs souverains d'IA",
+   "link": "https://www.journaldunet.com/cloud/1558123-ovh-scaleway-mistral-comparatif-des-inferenceurs-souverains-d-ia/",
+   "date": "2026-11-20T15:02:29+00:00",
+   "summary": "Quatre fournisseurs français proposent des modèles à la demande via API, avec des catalogues, des garanties et des tarifs très différents. Voici lequel retenir selon votre usage.",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "title": "Google a trouvé la fusée idéale pour envoyer ses puces IA dans l’espace",
+   "link": "https://www.01net.com/actualites/google-a-trouve-la-fusee-ideale-pour-envoyer-ses-puces-ia-dans-lespace.html",
+   "date": "2026-11-20T15:00:30+00:00",
+   "summary": "Google souhaite envoyer des puces IA dans l'espace dans le cadre de son Project Suncatcher. Pour cela, elle a retenu une fusée : New Glenn, conçue par Blue Origin, société fondée par Jeff Bezos, ancien patron d'Amazon.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "IA",
+    "Google"
+   ]
+  },
+  {
+   "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
+   "link": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+   "date": "2026-11-20T15:00:10+00:00",
+   "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibility, identify security risks, and simplify secure password sharing. …",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "US will soon announce root cause behind FAA nationwide ground stop",
+   "link": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
+   "date": "2026-11-20T14:52:51+00:00",
+   "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "On ne verra jamais les scènes coupées de L’Odyssée",
+   "link": "https://www.numerama.com/pop-culture/2379933-pourquoi-on-ne-verra-jamais-les-scenes-coupees-de-lodyssee.html",
+   "date": "2026-11-20T14:49:51+00:00",
+   "summary": "Comme tous les films, L'Odyssée a des scènes qui ont été coupées. Mais, contrairement à beaucoup de films, on ne les verra jamais. Le réalisateur Christopher Nolan a expliqué pourquoi cette semaine, au moment où le film sort en DVD, Blu-ray et 4K.",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Google fait un clin d’œil au nouveau James Bond sur son moteur de recherche : voici comment l’activer",
+   "link": "https://www.01net.com/actualites/google-fait-clin-oeil-nouveau-james-bond-sur-son-moteur-de-recherche-voici-comment-activer.html",
+   "date": "2026-11-20T14:44:40+00:00",
+   "summary": "Après l’annonce faite par Amazon que le prochain James Bond sera incarné par Robert Pattinson, Google a décidé de cacher une petite référence au célèbre agent 007 dans les résultats de son moteur de recherche.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "Google"
+   ]
+  },
+  {
+   "title": "La force d'une marque se mesure à ce que les autres publient sur elle",
+   "link": "https://www.journaldunet.com/management/emploi-cadres/1558313-la-force-d-une-marque-se-mesure-a-ce-que-les-autres-publient-sur-elle/",
+   "date": "2026-11-20T14:43:40+00:00",
+   "summary": "Beaucoup de marques mesurent encore leur présence en ligne au nombre de vidéos qu'elles publient. Mais leur force se lit surtout dans les contenus que d'autres créent à leur sujet.",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Niveau d'anglais : la France remonte, mais l'oral reste son point faible",
+   "link": "https://www.journaldunet.com/management/formation/1558303-niveau-d-anglais-la-france-remonte-mais-l-oral-reste-son-point-faible/",
+   "date": "2026-11-20T14:43:28+00:00",
+   "summary": "La France progresse dans le classement EF 2025, mais un écart important subsiste entre compréhension et expression orale, avec de fortes disparités selon les métiers et les régions.",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Pourquoi apprenons-nous dès l'école à éviter le sport plutôt qu'à l'aimer ?",
+   "link": "https://www.journaldunet.com/management/vie-personnelle/1558259-pourquoi-apprenons-nous-des-l-ecole-a-eviter-le-sport-plutot-qu-a-l-aimer/",
+   "date": "2026-11-20T14:42:52+00:00",
+   "summary": "Cette tribune pointe les freins à la pratique sportive en France et appelle à repenser le système plutôt qu'à culpabiliser les individus.",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "« Lockdown Mode » : Microsoft Edge introduit un mode « confinement » pour renforcer sa sécurité",
+   "link": "https://www.01net.com/actualites/lockdown-mode-microsoft-edge-introduit-un-mode-confinement-pour-renforcer-sa-securite.html",
+   "date": "2026-11-20T14:30:37+00:00",
+   "summary": "Le navigateur Web de Microsoft va intégrer un nouveau système de protection renforcé. « Lockdown Mode » ou « Mode de Confinement » en français, vise à couper l’accès à certains composants sensibles de votre PC pour casser les chaînes d’attaque exploitées par les pirates.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "cyber",
+   "tags": [
+    "exploit",
+    "sécurité",
+    "attaque"
+   ]
+  },
+  {
+   "title": "Let’s talk about GTA VI",
+   "link": "https://www.theverge.com/entertainment/1037545/gta-6-discussion",
+   "date": "2026-11-20T14:26:35+00:00",
+   "summary": "It's hard to believe, but Grand Theft Auto VI is now a real thing that we all can play. Thirteen years after GTA V, and eight years since Red Dead Redemption 2, Rockstar is back with its latest sprawling, extravagant open world. There's a lot to experience - and a lot to talk about. Perhaps […]",
+   "source": "The Verge",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Les Anneaux de pouvoir : c’est quoi le Thangorodrim, ces volcans de Tolkien où tout a mal tourné pour Galadriel",
+   "link": "https://www.numerama.com/pop-culture/2379923-les-anneaux-de-pouvoir-cest-quoi-le-thangorodrim-ces-volcans-de-tolkien-ou-tout-a-mal-tourne-pour-galadriel.html",
+   "date": "2026-11-20T14:21:00+00:00",
+   "summary": "L'épisode 5 de la saison 3 des Anneaux de pouvoir, revient sur le passé de Celeborn et Galadriel au Thangorodrim. Chez J. R. R. Tolkien, ces trois volcans bâtis par Morgoth s'effondrent à la fin du Premier Âge.",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
+   "link": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
+   "date": "2026-11-20T14:15:21+00:00",
+   "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Visa, Mastercard et JPMorgan Chase confirment des incidents chez des sous-traitants",
+   "link": "https://www.journaldunet.com/business/1558307-visa-mastercard-et-jpmorgan-chase-confirment-des-incidents-chez-des-sous-traitants/",
+   "date": "2026-11-20T14:08:43+00:00",
+   "summary": "Les géants financiers confirment une cyberattaque impliquant des sous-traitants, sans impact sur les systèmes centraux ni fuite de données de paiement.",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "cyber",
+   "tags": [
+    "cyberattaque",
+    "fuite de données",
+    "incident"
+   ]
+  },
+  {
+   "title": "The week everything fell apart",
+   "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+   "date": "2026-11-20T14:06:59+00:00",
+   "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger. …",
+   "source": "The Verge",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Apple voudrait son propre agent IA autonome pour concurrencer ChatGPT, Claude et Gemini",
+   "link": "https://www.01net.com/actualites/apple-voudrait-son-propre-agent-ia-autonome-pour-concurrencer-chatgpt-claude-et-gemini.html",
+   "date": "2026-11-20T14:00:12+00:00",
+   "summary": "Apple travaillerait d'arrache-pied sur un agent d'IA autonome qui serait capable d'utiliser un ordinateur. De quoi aller concurrencer OpenAI, Anthropic, Meta ou encore SpaceXAI, qui ont déjà leur agent respectif.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "IA",
+    "OpenAI",
+    "Apple"
+   ]
+  },
+  {
+   "title": "La Fnac fait baisser le Nothing Phone 4a de 50 € pour le Black Friday, coque et lanière comprises",
+   "link": "https://www.numerama.com/tech/2379693-la-fnac-fait-baisser-le-nothing-phone-4a-de-50-e-pour-le-black-friday-coque-et-laniere-comprises.html",
+   "date": "2026-11-20T14:00:00+00:00",
+   "summary": "[Deal du jour] Le Black Friday de la Fnac touche aussi le milieu de gamme Android. Le Nothing Phone 4a, vendu en pack avec une coque, une lanière et des stickers, passe à 399 € au lieu de 452 €.",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "Android"
+   ]
+  },
+  {
+   "title": "La proposition de loi Darcos n'a pas pu être examinée à l'Assemblée nationale",
+   "link": "https://www.journaldunet.com/business/1558309-la-proposition-de-loi-darcos-n-a-pas-pu-etre-examinee-a-l-assemblee-nationale/",
+   "date": "2026-11-20T13:59:31+00:00",
+   "summary": "Faute de temps lors de la niche parlementaire socialiste du 19 novembre, le texte visant à instaurer une présomption d'utilisation des œuvres protégées par les IA n'a pas pu être examiné.",
+   "source": "Journal du Net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "IA"
+   ]
+  },
+  {
+   "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
+   "link": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
+   "date": "2026-11-20T13:35:45+00:00",
+   "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Alerte sur Mars : Perseverance est en panne et son principal relais n’a plus que 2 mois de vie",
+   "link": "https://www.numerama.com/sciences/2379549-alerte-sur-mars-perseverance-est-en-panne-et-son-principal-relais-na-plus-que-2-mois-de-vie.html",
+   "date": "2026-11-20T13:34:21+00:00",
+   "summary": "La Nasa a mis en pause les activités scientifiques du rover Perseverance, car ses deux radios qui envoient les données vers l'orbite de Mars sont en panne. L'orbiteur Odyssey, l'un de ses relais, est lui aussi en mauvaise posture.",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "White House removes cyber-security chief after series of tech outages",
+   "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T13:28:32+00:00",
+   "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
+   "source": "BBC Technology",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "N-able says recent security breach led to major service outage",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+   "date": "2026-11-20T13:18:36+00:00",
+   "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "breach"
+   ]
+  },
+  {
+   "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
+   "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T13:08:30+00:00",
+   "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+   "source": "BBC Technology",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Anthropic : voici les principaux gagnants d’une entrée en Bourse historique",
+   "link": "https://www.01net.com/actualites/anthropic-voici-les-principaux-gagnants-dune-entree-en-bourse-historique.html",
+   "date": "2026-11-20T13:00:18+00:00",
+   "summary": "L’entrée en Bourse historique d’Anthropic a fait de nombreux gagnants, des sept fondateurs aux milliers de salariés devenus millionnaires. Les premiers investisseurs, parmi lesquels figure l'acteur Ashton Kutcher, ainsi que les géants Amazon, Google et Microsoft, profitent eux aussi de cette opération record.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": [
+    "Google",
+    "Microsoft"
+   ]
+  },
+  {
+   "title": "Only the Seminole Tribe can offer online gambling in Florida—and they're furious at DraftKings",
+   "link": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
+   "date": "2026-11-20T12:30:29+00:00",
+   "summary": "Gambling? We're just swapping contracts!",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+   "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+   "date": "2026-11-20T12:20:00+00:00",
+   "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other customers' virtual machines. The flaw, tracked as CVE-2026-99312, affects only hosts with …",
+   "source": "The Hacker News",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "CVE"
+   ]
+  },
+  {
+   "title": "Science has a home here at Ars—please help keep it that way",
+   "link": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
+   "date": "2026-11-20T12:15:36+00:00",
+   "summary": "Your support for Ars matters more now than ever.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Que se passe-t-il si on n’a pas l’édition ultime de GTA 6 ?",
+   "link": "https://www.numerama.com/pop-culture/2379649-que-se-passe-t-il-si-on-na-pas-ledition-ultime-de-gta-6.html",
+   "date": "2026-11-20T12:15:00+00:00",
+   "summary": "Au format numérique, GTA 6 est disponible en deux éditions : standard à 80 € et ultime à 100 €. La plus chère propose du contenu bonus, notamment l'accès à certaines boutiques. Comment la distinction est-elle gérée dans le jeu ?",
+   "source": "Numerama",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
+   "date": "2026-11-20T12:14:28+00:00",
+   "summary": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
+   "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
+   "date": "2026-11-20T12:00:43+00:00",
+   "summary": "TP-Link's struggle illustrates how Trump admin wields control over device makers.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "The Path to AI Autonomy in the SOC",
+   "link": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
+   "date": "2026-11-20T12:00:00+00:00",
+   "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions. In 12 months from now, 60% expect to be comfortable at that level. …",
+   "source": "The Hacker News",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "IA et éducation : une résolution mondiale pour la protection des données",
+   "link": "https://www.cnil.fr/fr/gpa-ia-education",
+   "date": "2026-11-20T12:00:00+00:00",
+   "summary": "En novembre 2026, l’Assemblée mondiale pour la protection de la vie privée (Global Privacy Assembly) a adopté une résolution sur l’intelligence artificielle dans le secteur de l’éducation. La CNIL revient sur les onze principes clés et les engagements pris.",
+   "source": "CNIL",
+   "lang": "fr",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "48e Assemblée mondiale pour la protection de la vie privée (GPA)",
+   "link": "https://www.cnil.fr/fr/48e-gpa",
+   "date": "2026-11-20T12:00:00+00:00",
+   "summary": "L’Assemblée mondiale pour la protection de la vie privée (ou Global Privacy Assembly), qui rassemble plus de 130 autorités de protection des données de plus de 80 pays, a adopté cinq résolutions dont deux sur l’Intelligence artificielle lors de sa réunion annuelle de novembre 2026.",
+   "source": "CNIL",
+   "lang": "fr",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "Pixels de suivi dans les courriels : la CNIL sollicite un premier retour d’expérience sur sa recommandation",
+   "link": "https://www.cnil.fr/fr/recommandation-pixels-retour-dexperience",
+   "date": "2026-11-20T12:00:00+00:00",
+   "summary": "Le 14 avril 2026, la CNIL a publié sa recommandation sur les pixels de suivi dans les courriels. Elle invite désormais les acteurs concernés, expéditeurs de messages et fournisseurs de solutions, à effectuer un retour d’expérience jusqu’au 3 décembre 2026.",
+   "source": "CNIL",
+   "lang": "fr",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "Sony et Bose ont du souci à se faire : le premier casque audio de Samsung dévoile ses secrets",
+   "link": "https://www.01net.com/actualites/sony-et-bose-ont-du-souci-a-se-faire-le-premier-casque-audio-de-samsung-devoile-ses-secrets.html",
+   "date": "2026-11-20T11:32:29+00:00",
+   "summary": "Cantonné jusqu’ici aux écouteurs intra-auriculaires avec sa gamme Buds, Samsung s’apprête à franchir un cap en investissant le marché des casques circum-auriculaires. Baptisé Galaxy Studio, ce premier modèle livre déjà une bonne partie de ses secrets dans les entrailles de One UI 9.5.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+   "link": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
+   "date": "2026-11-20T10:57:43+00:00",
+   "summary": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "exploit"
+   ]
+  },
+  {
+   "title": "Voiture électrique : cette solution pourrait faire disparaître les bornes de recharge en ville",
+   "link": "https://www.01net.com/actualites/voiture-electrique-cette-solution-pourrait-faire-disparaitre-bornes-recharge-en-ville.html",
+   "date": "2026-11-20T10:50:47+00:00",
+   "summary": "Intégrée directement dans les trottoirs, une nouvelle génération de bornes pourrait transformer la recharge électrique dans les zones urbaines. Expérimentée en Allemagne, à Cologne, cette solution se présente comme une alternative crédible aux bornes métalliques imposantes qui encombrent les rues.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+   "link": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+   "date": "2026-11-20T10:38:22+00:00",
+   "summary": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks. \"Attackers now use automation and AI to find and exploit unsupported edge devices faster than ever,\" …",
+   "source": "The Hacker News",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "exploit"
+   ]
+  },
+  {
+   "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+   "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+   "date": "2026-11-20T10:32:50+00:00",
+   "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit. The activity involves the exploitation of CVE-2026-76466 (CVSS score: 9.8), a vulnerability that could allow …",
+   "source": "The Hacker News",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "CVE",
+    "breach",
+    "exploit"
+   ]
+  },
+  {
+   "title": "Anthropic pulvérise tous les records lors de son entrée en Bourse, malgré les avertissements",
+   "link": "https://www.01net.com/actualites/anthropic-pulverise-tous-les-records-lors-de-son-entree-en-bourse-malgre-les-avertissements.html",
+   "date": "2026-11-20T10:06:04+00:00",
+   "summary": "Anthropic signe une entrée en Bourse historique : son action bondit de 34 % dès l'ouverture, portant sa valorisation à 2 000 milliards de dollars. Un succès retentissant, malgré les avertissements de l'entreprise.",
+   "source": "01net",
+   "lang": "fr",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+   "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+   "date": "2026-11-20T09:38:15+00:00",
+   "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authentication bypass in …",
+   "source": "The Hacker News",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "CVE",
+    "exploit",
+    "zero-day"
+   ]
+  },
+  {
+   "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
+   "date": "2026-11-20T09:25:35+00:00",
+   "summary": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "Should AI be judging our credit worthiness?",
+   "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T07:32:19+00:00",
+   "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+   "source": "BBC Technology",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+   "link": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+   "date": "2026-11-20T07:11:39+00:00",
+   "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through separate chains while …",
+   "source": "The Hacker News",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "malware"
+   ]
+  },
+  {
+   "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+   "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+   "date": "2026-11-20T05:30:01+00:00",
+   "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine. The method was posted yesterday by a researcher who uses the handles …",
+   "source": "The Hacker News",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "zero-day"
+   ]
+  },
+  {
+   "title": "VMware patches vCenter zero-day exploited in attacks since September",
+   "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+   "date": "2026-11-20T00:26:25+00:00",
+   "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "exploit",
+    "zero-day"
+   ]
+  },
+  {
+   "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+   "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T00:02:07+00:00",
+   "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+   "source": "BBC Technology",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+   "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T23:33:51+00:00",
+   "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+   "source": "BBC Technology",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
+   "link": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
+   "date": "2026-11-19T22:40:03+00:00",
+   "summary": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
+   "source": "Dark Reading",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "incident"
+   ]
+  },
+  {
+   "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+   "date": "2026-11-19T22:25:42+00:00",
+   "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "incident"
+   ]
+  },
+  {
+   "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app popup",
+   "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+   "date": "2026-11-19T22:16:37+00:00",
+   "summary": "Amazon now uses its shopping platform for political purposes.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+   "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
+   "date": "2026-11-19T21:19:12+00:00",
+   "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+   "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
+   "date": "2026-11-19T21:15:59+00:00",
+   "summary": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": []
+  },
+  {
+   "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+   "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+   "date": "2026-11-19T20:29:46+00:00",
+   "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+   "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+   "date": "2026-11-19T20:19:28+00:00",
+   "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": []
+  },
+  {
+   "title": "Second Norwegian Energy Company Breached in Two Days",
+   "link": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
+   "date": "2026-11-19T20:14:15+00:00",
+   "summary": "No specific link has been drawn between the two incidents, though they certainly sing the same notes.",
+   "source": "Dark Reading",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "breach",
+    "incident"
+   ]
+  },
+  {
+   "title": "Critical PHP Flaws Allow Code Execution, but Don't Panic 'PHP2Shell'-Style",
+   "link": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
+   "date": "2026-11-19T19:57:31+00:00",
+   "summary": "November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.",
+   "source": "Dark Reading",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "exploit"
+   ]
+  },
+  {
+   "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+   "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+   "date": "2026-11-19T19:52:54+00:00",
+   "summary": "\"Project Suncatcher is a long-term moonshot.\"",
+   "source": "Ars Technica",
+   "lang": "en",
+   "cat": "tech",
+   "tags": [
+    "Google"
+   ]
+  },
+  {
+   "title": "Navigating Vulnerability Hysteria in the AI Era",
+   "link": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
+   "date": "2026-11-19T19:46:44+00:00",
+   "summary": "This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions, and growing warning fatigue.",
+   "source": "Dark Reading",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "exploit"
+   ]
+  },
+  {
+   "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+   "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+   "date": "2026-11-19T18:47:58+00:00",
+   "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get people to hand over …",
+   "source": "The Hacker News",
+   "lang": "en",
+   "cat": "cyber",
+   "tags": [
+    "malware"
+   ]
   },
   {
    "title": "Transport for London breach exposes 265,000 Oyster card users' data",
@@ -73,224 +1132,6 @@
    ]
   },
   {
-   "title": "Leaked images reveal Motorola’s wide foldable",
-   "link": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak",
-   "date": "2026-11-19T18:19:53+00:00",
-   "summary": "New leaked images of Motorola's next folding smartphone shared by SammyGuru add more credence to the theory that widescreen could be the default design for foldables moving forward. Following a single leaked shot shared to Reddit yesterday, this new crop of images reveal the Motorola Razr Flex from several angles in …",
-   "source": "The Verge",
-   "lang": "en",
-   "cat": "tech",
-   "tags": [
-    "smartphone"
-   ]
-  },
-  {
-   "title": "Apple’s iPhone camera leader has reportedly left the company",
-   "link": "https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera",
-   "date": "2026-11-19T18:13:05+00:00",
-   "summary": "Jon McCormack, Apple's vice president of camera software engineering, left the company last month, Bloomberg reports. Its sources say McCormack retired \"at the end of October after more than eight years at the company.\" Apple reportedly has not yet named a new VP to step in for McCormack, who oversaw its Camera and …",
-   "source": "The Verge",
-   "lang": "en",
-   "cat": "tech",
-   "tags": [
-    "Apple"
-   ]
-  },
-  {
-   "title": "Oh, Elon Musk is ‘moderate’ now, is he?",
-   "link": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook",
-   "date": "2026-11-19T18:09:53+00:00",
-   "summary": "A little less than two years ago, Elon Musk stood onstage at the Conservative Political Action Conference, sunglasses on, black MAGA hat perched atop his head, wielding a chainsaw. Last night, Musk called in to The New York Times DealBook Summit and distanced himself from President Donald Trump's movement. \"I think …",
-   "source": "The Verge",
-   "lang": "en",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Google will launch Android app verification requirement globally in January 2027",
-   "link": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
-   "date": "2026-11-19T18:00:33+00:00",
-   "summary": "Google says almost all developers have already gotten on board with verification.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "cat": "tech",
-   "tags": [
-    "Google",
-    "Android"
-   ]
-  },
-  {
-   "title": "GTA 6 : être un furry est strictement illégal à Leonida et les chasseurs tirent à vue",
-   "link": "https://www.numerama.com/pop-culture/2379191-gta-6-etre-un-furry-est-strictement-illegal-a-leonida-et-les-chasseurs-tirent-a-vue.html",
-   "date": "2026-11-19T18:00:00+00:00",
-   "summary": "GTA 6 est sorti ce jeudi 19 novembre sur PS5 et Xbox Series, et les premiers joueurs tombent déjà sur des détails aussi absurdes que grinçants. Parmi les trouvailles qui agitent les réseaux sociaux dès ce lancement : une véritable chasse aux sorcières visant les furries.",
-   "source": "Numerama",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Cette astuce transforme votre iPhone Duo en véritable liseuse Kindle dès que vous l’ouvrez",
-   "link": "https://www.frandroid.com/marques/3331871_cette-astuce-transforme-votre-iphone-duo-en-veritable-liseuse-kindle-des-que-vous-louvrez",
-   "date": "2026-11-19T17:50:14+00:00",
-   "summary": "L'iPhone Duo peut se transformer automatiquement en liseuse lorsqu'on ouvre son écran interne.",
-   "source": "Frandroid",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Le Xiaomi Redmi Note 17 5G mise sur son écran AMOLED 120 Hz, sa batterie et son prix en baisse de 37% pour séduire pendant le Black Friday",
-   "link": "https://www.frandroid.com/bons-plans/3330779_le-xiaomi-redmi-note-17-5g-mise-sur-son-ecran-amoled-120-hz-sa-batterie-et-son-prix-en-baisse-de-37-pour-seduire-pendant-le-black-friday",
-   "date": "2026-11-19T17:49:00+00:00",
-   "summary": "Le Xiaomi Redmi Note 17 5G est un smartphone milieu de gamme que vous retrouvez à -37 % sur Amazon pour le Black Friday, idéal si vous cherchez l'endurance avant tout.",
-   "source": "Frandroid",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": [
-    "smartphone"
-   ]
-  },
-  {
-   "title": "ID. Up : Volkswagen mise sur un nom culte pour son électrique à 20 000 euros",
-   "link": "https://www.frandroid.com/marques/volkswagen/3331213_id-up-volkswagen-mise-sur-un-nom-culte-pour-son-electrique-a-20-000-euros",
-   "date": "2026-11-19T17:48:09+00:00",
-   "summary": "Attendue pour 2027, la version de série du concept Volkswagen ID. EVERY1 se précise peu à peu. Un dépôt de marque auprès de l’office européen des marques donne désormais une idée du nom de la future petite voiture électrique à environ 20 000 euros.",
-   "source": "Frandroid",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Une Tesla Model Y sans volant ni pédales : le nouveau pari risqué d’Elon Musk",
-   "link": "https://www.frandroid.com/marques/tesla/3331379_une-tesla-model-y-sans-volant-ni-pedales-le-nouveau-pari-risque-delon-musk",
-   "date": "2026-11-19T17:46:47+00:00",
-   "summary": "Alors que le Cybercab démarre sa commercialisation, Tesla a une nouvelle idée : lancer une version autonome de sa Model Y. La voiture pourrait ainsi transporter toute une famille et répondre à des besoins supplémentaires par rapport à son robotaxi.",
-   "source": "Frandroid",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "La confiance, clé de voûte de l'avenir de la CTV",
-   "link": "https://www.journaldunet.com/adtech/1558173-la-confiance-cle-de-voute-de-l-avenir-de-la-ctv/",
-   "date": "2026-11-19T17:36:46+00:00",
-   "summary": "Face à l'essor de la CTV, la transparence et la qualité de mesure s'imposent comme des conditions essentielles pour garantir la confiance des annonceurs.",
-   "source": "Journal du Net",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Golden Quarter : le moment de vérité du commerce en ligne",
-   "link": "https://www.journaldunet.com/martech/1558199-golden-quarter-le-moment-de-verite-du-commerce-en-ligne/",
-   "date": "2026-11-19T17:34:49+00:00",
-   "summary": "Le Golden Quarter, littéralement le \"trimestre doré \", désigne la période clé de fin d'année, lorsque les fêtes et les grandes opérations promotionnelles concentrent une part importante des ventes.",
-   "source": "Journal du Net",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Les entreprises ont des projets IA. Mais qui est responsable de leur ROI ?",
-   "link": "https://www.journaldunet.com/intelligence-artificielle/1558073-les-entreprises-ont-des-projets-ia-mais-qui-est-responsable-de-leur-roi/",
-   "date": "2026-11-19T17:32:23+00:00",
-   "summary": "L'IA fait gagner du temps, mais comment transformer ces gains en résultats économiques ?",
-   "source": "Journal du Net",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": [
-    "IA"
-   ]
-  },
-  {
-   "title": "AirPods en promo pour le Black Friday : trois modèles Apple jusqu’à 20 % moins chers",
-   "link": "https://www.frandroid.com/marques/3331305_airpods-en-promo-pour-le-black-friday-trois-modeles-apple-jusqua-20-moins-chers",
-   "date": "2026-11-19T17:27:00+00:00",
-   "summary": "Pour le Black Friday, les écouteurs et casque d'Apple proditent aussi de réduction. Trois modèles d'AirPods sont en promotion : les AirPods 5, les AirPods Pro 3 et les AirPods Max 2, avec des remises allant jusqu'à 20 %.",
-   "source": "Frandroid",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": [
-    "Apple"
-   ]
-  },
-  {
-   "title": "Ce pionnier du fatbike électrique est en faillite",
-   "link": "https://www.frandroid.com/survoltes/3331831_ce-pionnier-du-fatbike-electrique-est-en-faillite",
-   "date": "2026-11-19T17:15:25+00:00",
-   "summary": "Knaap Bikes, l'un des premiers vendeurs de fatbikes électriques aux Pays-Bas, a été déclaré en faillite mardi 17 novembre par le tribunal de La Haye. Sa direction pointe du doigt l'image dégradée du fatbike, les excès de certains utilisateurs et la concurrence des modèles chinois à bas prix.",
-   "source": "Frandroid",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Quels sont les meilleurs drones à acheter en 2026 (DJI, Antigravity) ?",
-   "link": "https://www.frandroid.com/guide-dachat/378946_quels-sont-les-meilleurs-drones",
-   "date": "2026-11-19T17:09:48+00:00",
-   "summary": "Vous avez déjà eu envie de piloter un drone ? Que vous soyez débutant ou expert, voici notre comparatif des meilleurs drones, pour savoir lequel choisir selon vos besoins, vos préférences et votre budget.",
-   "source": "Frandroid",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Black Friday Amazon : on fait le tri des meilleures offres de la Black Week et il y a de belles pépites",
-   "link": "https://www.frandroid.com/bons-plans/3329369_amazon-lance-une-tonne-de-nouvelles-offres-pour-la-black-friday-week-le-top-en-direct",
-   "date": "2026-11-19T17:04:14+00:00",
-   "summary": "Ce 19 novembre 2026, Amazon rentre dans la danse du Black Friday avec une avalanche de nouvelles offres pour la Black Week. Encore une fois, on fait le tri pour vous proposer uniquement les meilleurs produits Tech aux meilleurs prix. C'est parti !",
-   "source": "Frandroid",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "J’ai joué à GTA 6 sur ma vieille Xbox One grâce au cloud : voilà à quoi ça ressemble",
-   "link": "https://www.01net.com/actualites/jai-joue-a-gta-6-sur-ma-vieille-xbox-one-grace-au-cloud-voila-a-quoi-ca-ressemble.html",
-   "date": "2026-11-19T17:03:15+00:00",
-   "summary": "Pas de PS5 ni de Xbox Series sous la télé ? GTA 6 reste jouable sur une Xbox One grâce au cloud gaming de Microsoft. Nous avons testé cette solution le jour de la sortie sur une Xbox One S.",
-   "source": "01net",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": [
-    "Microsoft",
-    "cloud"
-   ]
-  },
-  {
-   "title": "Anthropic starts trading on Wall Street",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-   "date": "2026-11-19T17:01:00+00:00",
-   "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its lengthy S-1 filing …",
-   "source": "The Verge",
-   "lang": "en",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Son pedigree est déjà bien chargé : c’est quoi ARTEX, l’outil de piratage chinois utilisé contre la Commission européenne ?",
-   "link": "https://www.numerama.com/cyberguerre/2379121-son-pedigree-est-deja-bien-charge-cest-quoi-artex-loutil-de-piratage-chinois-utilise-contre-la-commission-europeenne.html",
-   "date": "2026-11-19T17:00:45+00:00",
-   "summary": "Selon Politico, les pirates qui perturbent depuis plus de dix jours les services internes de la Commission européenne se sont servis d’ARTEX, un outil d’intelligence artificielle développé en Chine.",
-   "source": "Numerama",
-   "lang": "fr",
-   "cat": "cyber",
-   "tags": [
-    "piratage"
-   ]
-  },
-  {
-   "title": "Black Friday 2026 : les meilleures offres du jour en DIRECT chez la Fnac, Darty, Boulanger…",
-   "link": "https://www.frandroid.com/bons-plans/3303871_black-friday-2026-en-direct-a-j-8-la-braderie-continue-sur-amazon-co-voici-les-meilleures-offres-tech-a-saisir",
-   "date": "2026-11-19T17:00:14+00:00",
-   "summary": "En ce jeudi 19 novembre, il ne reste plus que huit jours avant le véritable Black Friday. Si tous les e-commerçants — d'Amazon à Boulanger en passant par la Fnac, Darty et Cdiscount — cassent les prix sur des milliers de références, il est difficile de s'y retrouver dans cette avalanche de promotions. Pour vous éviter …",
-   "source": "Frandroid",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
    "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
    "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
    "date": "2026-11-19T16:59:56+00:00",
@@ -301,49 +1142,6 @@
    "tags": []
   },
   {
-   "title": "Amazon’s last-gen Kindle Paperwhite hasn’t been this cheap since June",
-   "link": "https://www.theverge.com/gadgets/1037635/amazon-kindle-paperwhite-black-friday-2026-deal-sale",
-   "date": "2026-11-19T16:58:14+00:00",
-   "summary": "alt: Amazon’s last-gen Kindle Paperwhite is just $10 more than the base modelalt: The last-gen Kindle Paperwhite for $130 is a stellar Black Friday deal Amazon debuted its latest Kindle Paperwhite in October, which is now available for $199.99 and replaces the outgoing 2024 model. However, given the minimal …",
-   "source": "The Verge",
-   "lang": "en",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Ce SSD NVMe de 1 To, taillé pour la PS5 et les PC, ne dépasse pas les 140 € pendant le Black Friday, une bonne affaire en pleine hausse des prix",
-   "link": "https://www.frandroid.com/bons-plans/3330803_ce-ssd-nvme-de-1-to-taille-pour-la-ps5-et-les-pc-ne-depasse-pas-les-140-e-pendant-le-black-friday-une-bonne-affaire-en-pleine-hausse-des-prix",
-   "date": "2026-11-19T16:55:00+00:00",
-   "summary": "Les prix du stockage sont encore très (trop) élevés, alors les promotions sont toujours les bienvenues. Le SSD NVMe Netac NV7000-t de 1 To devient ainsi bien plus intéressant à 135,99 euros au lieu de 159,99 euros sur Amazon, pendant le Black Friday. Attention, cette offre est réservée aux membres Prime.",
-   "source": "Frandroid",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "New phpAfterShell Attack Bypasses PHP2Shell Fix to Enable Remote Code Execution",
-   "link": "https://cybersecuritynews.com/phpaftershell-rce/",
-   "date": "2026-11-19T16:50:33+00:00",
-   "summary": "A new PHP attack dubbed phpAfterShell can lead to unauthenticated remote code execution on vulnerable servers, even if they have the October patches for PHP2Shell. Researchers at Depthfirst disclosed the flaw on November 19 and demonstrated how it could be combined with a separate bug in PHP to run code remotely. The …",
-   "source": "CyberSecurityNews",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": []
-  },
-  {
-   "title": "JPMorgan Chase reveals data breach, but says it&#8217;s unrelated to this week&#8217;s banking outage",
-   "link": "https://www.theverge.com/tech/1037695/jpmorgan-chase-cyberattack",
-   "date": "2026-11-19T16:47:05+00:00",
-   "summary": "JPMorgan Chase says its third-party vendors suffered a cyberattack, exposing marketing data like customer names and email addresses. The confirmation follows a report from Cybernews, which says a ransomware group leaked email addresses belonging to around 16,000 JPMorgan Chase customers. In a post about the attack …",
-   "source": "The Verge",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": [
-    "ransomware",
-    "breach"
-   ]
-  },
-  {
    "title": "Dutch watchdog tells people not to buy AI smart glasses",
    "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-19T16:33:17+00:00",
@@ -351,46 +1149,6 @@
    "source": "BBC Technology",
    "lang": "en",
    "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "GTA 6 : ours déchaîné, tigre en liberté, avion qui s’écrase…les joueurs découvrent des scènes complètement folles",
-   "link": "https://www.01net.com/actualites/gta-6-ours-dechaine-tigre-en-liberte-avion-qui-secraseles-joueurs-decouvrent-des-scenes-completement-folles.html",
-   "date": "2026-11-19T16:33:07+00:00",
-   "summary": "Depuis plus de 24 heures, les clips montrant la dimension organique de GTA 6 se multiplient sur les réseaux sociaux. Entre un tigre qui surgit d’une camionnette et un avion qui s’écrase, le monde ouvert de GTA 6 semble aussi réel que surréaliste.",
-   "source": "01net",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Black Friday : les meilleures offres ce jeudi 19 novembre (EN DIRECT)",
-   "link": "https://www.numerama.com/tech/2374925-black-friday-les-meilleures-offres-ce-jeudi-19-novembre-en-direct.html",
-   "date": "2026-11-19T16:32:40+00:00",
-   "summary": "Black Friday 2026 : Amazon, Boulanger et la Fnac ont déjà lancé leurs promos. Nous trions en direct celles qui valent vraiment le coup.",
-   "source": "Numerama",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Frapper n’importe quelle cible depuis l’espace : l’Europe a désormais son projet d’arme orbitale",
-   "link": "https://www.numerama.com/tech/2378535-frapper-nimporte-quelle-cible-depuis-lespace-leurope-a-desormais-son-projet-darme-orbitale.html",
-   "date": "2026-11-19T16:32:20+00:00",
-   "summary": "Le fabricant de missiles MBDA Deutschland et la startup allemande Atmos Space Cargo ont signé un accord pour développer une capacité de « frappe orbitale de précision en profondeur », baptisée PODS. Le projet s'appuie sur une capsule conçue au départ pour rapporter des expériences scientifiques depuis l'orbite.",
-   "source": "Numerama",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Critical VMware vCenter Flaws Let Hackers Bypass Authentication and Access Servers",
-   "link": "https://cybersecuritynews.com/vmware-vcenter-authentication-bypass/",
-   "date": "2026-11-19T16:30:55+00:00",
-   "summary": "Broadcom has released fixes for five VMware flaws, and one lets anyone with network access to vCenter skip login. Broadcom published the advisory, VMSA-2026-0009, on November 19, 2026. It covers vCenter, SDDC Manager, and VMware Tools. CVSS scores range from 6.7 to 9.8, and Broadcom has listed no workarounds. The most …",
-   "source": "CyberSecurityNews",
-   "lang": "en",
-   "cat": "cyber",
    "tags": []
   },
   {
@@ -404,109 +1162,12 @@
    "tags": []
   },
   {
-   "title": "Microsoft is killing its great tasks app in favor of its worse tasks app",
-   "link": "https://www.theverge.com/tech/1037558/microsoft-to-do-shutdown-planner",
-   "date": "2026-11-19T16:28:12+00:00",
-   "summary": "In 2015 Microsoft acquired a to-do list app called Wunderlist, for a price rumored to be as high as $200 million. Wunderlist fans were worried that Microsoft would make their beloved app soulless and corporate, or worse, hide it behind some convoluted enterprise subscription. But against all odds, Microsoft was a good …",
-   "source": "The Verge",
-   "lang": "en",
-   "cat": "tech",
-   "tags": [
-    "Microsoft"
-   ]
-  },
-  {
-   "title": "You can grab two months of Paramount Plus for just $2.99 for Black Friday",
-   "link": "https://www.theverge.com/gadgets/1036229/paramount-plus-black-friday-deal-2026-sale",
-   "date": "2026-11-19T16:15:01+00:00",
-   "summary": "Ahead of Black Friday, you can subscribe to Paramount Plus for just $2.99 per month for the first two months. After the introductory period, you can cancel your subscription or automatically renew at the then-current rate, which, as of now, is $8.99 per month for the ad-supported Essential plan or $13.99 per month for …",
-   "source": "The Verge",
-   "lang": "en",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "JPMorgan Chase Confirms Third-Party Cyberattack That May Have Exposed Customer Names and Emails",
-   "link": "https://cybersecuritynews.com/jpmorgan-third-party-data-breach/",
-   "date": "2026-11-19T16:14:31+00:00",
-   "summary": "JPMorgan Chase confirmed on November 19 that a cyberattack targeted outside companies that provide services to the bank. The bank said it believes attackers accessed marketing data held by those vendors, which may include some customer names and email addresses. It did not say how many customers may be affected. J.P. …",
-   "source": "CyberSecurityNews",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": []
-  },
-  {
    "title": "Anthropic raises $81bn in record-breaking stock market debut",
    "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-19T15:58:58+00:00",
    "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
    "source": "BBC Technology",
    "lang": "en",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Gemini 4 Neon : Google continue de dégainer de nouveaux modèles d’IA, au risque de vous embrouiller",
-   "link": "https://www.01net.com/actualites/gemini-4-neon-google-continue-de-degainer-de-nouveaux-modeles-dia-au-risque-de-vous-embrouiller.html",
-   "date": "2026-11-19T15:58:27+00:00",
-   "summary": "Google a lancé ce 18 novembre Gemini 4 Neon, le quatrième modèle basé sur Gemini 4 en moins de deux mois. Une multiplication qui s'explique par l'envie de Google de segmenter les usages et de diminuer les coûts. Au risque d'embrouiller les utilisateurs qui peinent à s'y retrouver dans cette forêt de modèles.",
-   "source": "01net",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": [
-    "IA",
-    "Google"
-   ]
-  },
-  {
-   "title": "Marre des miles dans GTA 6 ? On peut changer les unités de mesure",
-   "link": "https://www.numerama.com/pop-culture/2379115-marre-des-miles-dans-gta-6-on-peut-changer-les-unites-de-mesure.html",
-   "date": "2026-11-19T15:53:45+00:00",
-   "summary": "GTA 6 se déroulant aux États-Unis, les unités de mesure par défaut sont calquées sur celles de la vraie vie. Les distances s'expriment en miles par exemple. Les paramètres permettent de passer aux unités utilisées en France.",
-   "source": "Numerama",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Tesla n’est plus la seule lanterne rouge du contrôle technique allemand, une électrique chinoise l’y rejoint",
-   "link": "https://www.numerama.com/vroom/2379075-tesla-nest-plus-la-seule-lanterne-rouge-du-controle-technique-allemand-une-electrique-chinoise-ly-rejoint.html",
-   "date": "2026-11-19T15:45:00+00:00",
-   "summary": "L’organisme allemand TÜV vient de publier son bilan 2027 des contrôles techniques. Comme les années précédentes, Tesla est toujours en fond de classement. Mais, cette année, le constructeur américain y est rejoint par un constructeur chinois : MG avec sa MG4.",
-   "source": "Numerama",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Modèles maison, OS IA, agents… OVHcloud ne veut plus seulement héberger l'IA des autres",
-   "link": "https://www.journaldunet.com/cloud/1558267-modeles-maison-os-ia-agents-ovhcloud-ne-veut-plus-seulement-heberger-l-ia-des-autres/",
-   "date": "2026-11-19T15:38:03+00:00",
-   "summary": "Fini le simple hébergeur. Le groupe lance sa propre famille de LLM, un \"OS IA\" taillé pour l'IA agentique et une salve de produits d'IA. Sans Mistral AI, et Octave Klaba ne s'en cache pas.",
-   "source": "Journal du Net",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": [
-    "IA"
-   ]
-  },
-  {
-   "title": "Où trouver la maison de GTA San Andreas dans GTA 6 ?",
-   "link": "https://www.numerama.com/pop-culture/2378997-ou-trouver-la-maison-de-gta-san-andreas-dans-gta-6.html",
-   "date": "2026-11-19T15:35:07+00:00",
-   "summary": "Le mystère de la maison glissée en photo dans GTA San Andreas en 2021 est levé le jour même de la sortie de GTA 6. La demeure existe bien dans le nouveau jeu de Rockstar Games. On vous dit où la trouver.",
-   "source": "Numerama",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Horizon Zero Dawn Remastered sur PS5 tombe à un prix difficile à ignorer",
-   "link": "https://www.numerama.com/tech/2379089-horizon-zero-dawn-remastered-sur-ps5-tombe-a-un-prix-difficile-a-ignorer.html",
-   "date": "2026-11-19T15:31:13+00:00",
-   "summary": "Pendant que tout le monde a les yeux rivés sur GTA 6, l’une des plus belles aventures de la PS5 se fait discrètement plus accessible. Horizon Zero Dawn Remastered profite d’une belle baisse de prix chez Cdiscount.",
-   "source": "Numerama",
-   "lang": "fr",
    "cat": "tech",
    "tags": []
   },
@@ -524,179 +1185,15 @@
    ]
   },
   {
-   "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+   "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
    "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
    "date": "2026-11-19T15:11:06+00:00",
    "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no workaround. vCenter is the central …",
    "source": "The Hacker News",
    "lang": "en",
    "cat": "cyber",
-   "tags": []
-  },
-  {
-   "title": "Criminal IP Launches AITEM to Connect Asset Discovery with AI-Powered Exposure Management",
-   "link": "https://cybersecuritynews.com/criminal-ip-launches-aitem-to-connect-asset-discovery-with-ai-powered-exposure-management/",
-   "date": "2026-11-19T15:03:15+00:00",
-   "summary": "Torrance, California, USA, November 19th, 2026, CyberNewswire Criminal IP, a cyber threat intelligence platform developed by AI SPERA, officially launched Criminal IP AITEM (AI-Powered Threat Exposure Management) on November 18, 2026. An evolution of Criminal IP ASM, AITEM combines internet-facing asset discovery with …",
-   "source": "CyberSecurityNews",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": []
-  },
-  {
-   "title": "Five warning signs of ransomware breach before encryption or data theft",
-   "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-   "date": "2026-11-19T15:00:10+00:00",
-   "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical systems and backups. [...]",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "cat": "cyber",
    "tags": [
-    "ransomware",
-    "breach"
-   ]
-  },
-  {
-   "title": "Guerre contre l’IPTV : l’un des plus gros sites pirates de Turquie ferme ses portes",
-   "link": "https://www.01net.com/actualites/guerre-contre-liptv-lun-des-plus-gros-sites-pirates-de-turquie-ferme-ses-portes.html",
-   "date": "2026-11-19T14:59:38+00:00",
-   "summary": "Dizigom, l’un des plus gros sites de streaming illégal de Turquie, a été fermé de force. Après trois ans d’enquête, la coalition ACE, qui réunit Netflix, Disney ou Amazon, a contraint les responsables du site IPTV à jeter l'éponge.",
-   "source": "01net",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
-   "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
-   "date": "2026-11-19T14:57:24+00:00",
-   "summary": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": []
-  },
-  {
-   "title": "Un mois après le chaos PHP2Shell, que vaut vraiment la nouvelle alerte critique de PHP ?",
-   "link": "https://www.numerama.com/cyberguerre/2378991-un-mois-apres-le-chaos-php2shell-que-vaut-vraiment-la-nouvelle-alerte-critique-de-php.html",
-   "date": "2026-11-19T14:47:06+00:00",
-   "summary": "PHP publie ce jeudi 19 novembre 2026 des correctifs pour des failles jugées critiques dans toutes ses versions maintenues, un mois après l’épisode PHP2Shell.",
-   "source": "Numerama",
-   "lang": "fr",
-   "cat": "cyber",
-   "tags": [
-    "faille"
-   ]
-  },
-  {
-   "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Urges Users to Update",
-   "link": "https://cybersecuritynews.com/php-8-released/",
-   "date": "2026-11-19T14:42:41+00:00",
-   "summary": "The PHP security team has warned of vulnerabilities across all branches covered by its November 19, 2026 security update, with the most severe issues rated critical. The team urged website operators and hosting providers to update promptly. The critical flaws require non-default settings or uncommon setups, so not …",
-   "source": "CyberSecurityNews",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": []
-  },
-  {
-   "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-   "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-   "date": "2026-11-19T14:33:06+00:00",
-   "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote code execution, and the project rates the vulnerable configurations as uncommon. Fixed releases for …",
-   "source": "The Hacker News",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": []
-  },
-  {
-   "title": "GTA 6 : la carte interactive ultime pour découvrir les secrets de Leonida",
-   "link": "https://www.numerama.com/pop-culture/2378989-gta-6-la-carte-interactive-ultime-pour-decouvrir-les-secrets-de-leonida.html",
-   "date": "2026-11-19T14:30:03+00:00",
-   "summary": "Alors que Rockstar Games a gardé le secret sur la carte complète de GTA 6 jusqu’à sa sortie, ce jeudi 19 novembre, une poignée de passionnés menée par un cartographe surnommé Yanis a reconstitué l’État de Leonida sur une carte interactive.",
-   "source": "Numerama",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Starlink bridé, pont de Crimée détruit : l’Ukraine a trouvé un moyen ingénieux de bien diriger ses missiles",
-   "link": "https://www.numerama.com/tech/2378957-starlink-bride-pont-de-crimee-detruit-lukraine-a-trouve-un-moyen-ingenieux-de-bien-diriger-ses-missiles.html",
-   "date": "2026-11-19T14:21:28+00:00",
-   "summary": "L'Ukraine a guidé les missiles qui ont fait s'effondrer une partie du pont de Crimée avec un réseau de drones relais qui se passe de Starlink. Kiev affirme que Starshield, la version militaire du réseau de SpaceX, coupe la liaison au-delà de 161 km/h.",
-   "source": "Numerama",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Mauvaise nouvelle si vous attendez l’iMac OLED : Apple bloque sur ces deux points",
-   "link": "https://www.01net.com/actualites/mauvaise-nouvelle-si-vous-attendez-imac-oled-apple-bloque-sur-ces-deux-points.html",
-   "date": "2026-11-19T14:13:38+00:00",
-   "summary": "L'iMac n'est finalement pas près d'adopter l'affichage OLED. Apple discute actuellement avec Samsung Display pour reporter, voire annuler purement et simplement le projet au profit de la bonne vieille technologie LCD.",
-   "source": "01net",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": [
-    "Apple"
-   ]
-  },
-  {
-   "title": "Meta AI Agent Muse Reads Encrypted Messages Through Android Notifications and Mac Permissions",
-   "link": "https://cybersecuritynews.com/muse-reads-encrypted-messages/",
-   "date": "2026-11-19T14:11:32+00:00",
-   "summary": "Meta’s AI agent Muse read Signal message text on Android phones and Macs without directly connecting to the encrypted messaging app, Reuters reported on November 18. The investigation found that Muse could use Android notifications and macOS permissions to see text already displayed on a device. The tests did not show …",
-   "source": "CyberSecurityNews",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": []
-  },
-  {
-   "title": "BADBOX 3.0 Malware Infects Android TV Boxes to Generate 40 Billion Fraudulent Ad Requests Daily",
-   "link": "https://cybersecuritynews.com/badbox-3-0-malware/",
-   "date": "2026-11-19T14:05:35+00:00",
-   "summary": "Low-cost Android streaming boxes helped power an advertising fraud operation that generated roughly 40 billion bid requests a day at its peak. Known as BADBOX 3.0, the campaign used infected devices to play video ads outside the visible screen while making the traffic look as though it came from legitimate streaming …",
-   "source": "CyberSecurityNews",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "title": "Mouse fight club might explain why we like to watch violent things",
-   "link": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
-   "date": "2026-11-19T14:04:38+00:00",
-   "summary": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "La Commission européenne a subi une cyberattaque pendant plus de dix jours",
-   "link": "https://www.journaldunet.com/business/action-publique/1558247-la-commission-europeenne-a-subi-une-cyberattaque-pendant-plus-de-dix-jours/",
-   "date": "2026-11-19T14:03:23+00:00",
-   "summary": "Une attaque informatique a perturbé les services internes de la Commission européenne pendant plus de dix jours. Les pirates auraient utilisé un outil d'intelligence artificielle accessible au public, dont le rôle précis reste à établir.",
-   "source": "Journal du Net",
-   "lang": "fr",
-   "cat": "cyber",
-   "tags": [
-    "cyberattaque",
-    "attaque"
-   ]
-  },
-  {
-   "title": "Une cyberattaque IA vient de frapper la Commission européenne : 10 jours de systèmes paralysés et des données volées",
-   "link": "https://www.01net.com/actualites/cyberattaque-ia-vient-frapper-commission-europeenne-plusieurs-systemes-paralyses-pendant-dix-jours.html",
-   "date": "2026-11-19T14:00:25+00:00",
-   "summary": "La Commission européenne a été visée par une cyberattaque. Menée avec ARTEX, un outil de piratage dopé à l’IA, l'attaque a paralysé plusieurs systèmes internes pendant une dizaine de jours. Une enquête est toujours en cours.",
-   "source": "01net",
-   "lang": "fr",
-   "cat": "cyber",
-   "tags": [
-    "cyberattaque",
-    "piratage",
-    "attaque"
+    "zero-day"
    ]
   },
   {
@@ -710,92 +1207,6 @@
    "tags": []
   },
   {
-   "title": "Hackers Steal US Bank, IRS and Social Security Login Credentials From Infected Computers",
-   "link": "https://cybersecuritynews.com/hackers-steal-us-bank/",
-   "date": "2026-11-19T13:43:37+00:00",
-   "summary": "A Russian-speaking cybercrime operation has been stealing logins for US banks, the IRS and Social Security from infected Windows PCs. The victims were ordinary people. Many used a password manager and multi-factor authentication (MFA), and it did not help. The attackers did not break into any bank or government …",
-   "source": "CyberSecurityNews",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": []
-  },
-  {
-   "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
-   "link": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
-   "date": "2026-11-19T13:40:02+00:00",
-   "summary": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
-   "source": "Ars Technica",
-   "lang": "en",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Sortie de GTA 6 : guides, astuces, secrets et premières découvertes pour tout savoir sur Leonida (EN DIRECT)",
-   "link": "https://www.numerama.com/pop-culture/2375431-lancement-de-gta-6-en-direct-guides-astuces-secrets.html",
-   "date": "2026-11-19T13:19:11+00:00",
-   "summary": "Grand Theft Auto VI (GTA 6) est sorti, et Leonida livre déjà ses premiers secrets. Easter eggs, astuces, records et réactions : suivez en direct toutes les trouvailles et les infos sur le jeu de Rockstar.",
-   "source": "Numerama",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
-   "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
-   "date": "2026-11-19T13:08:08+00:00",
-   "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": [
-    "exploit"
-   ]
-  },
-  {
-   "title": "CISA Warns Hackers Are Actively Exploiting Four Flaws in Synology, LiteLLM, Apache Axis and REDCap",
-   "link": "https://cybersecuritynews.com/flaws-in-synology-litellm-apache-axis-and-redcap/",
-   "date": "2026-11-19T13:06:39+00:00",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added four flaws to its Known Exploited Vulnerabilities (KEV) catalog on November 18, 2026, after finding evidence that attackers were already exploiting them. The entries cover Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis and …",
-   "source": "CyberSecurityNews",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": [
-    "exploit"
-   ]
-  },
-  {
-   "title": "Anthropic entre en Bourse et bat le record historique de SpaceX",
-   "link": "https://www.01net.com/actualites/anthropic-entre-en-bourse-et-bat-le-record-historique-de-spacex.html",
-   "date": "2026-11-19T13:01:23+00:00",
-   "summary": "Anthropic signe une entrée en Bourse historique avec une opération de 81,34 milliards de dollars, dépassant ainsi le record précédemment établi par SpaceX. Malgré une forte croissance de ses revenus, l'entreprise affiche toutefois des pertes importantes, notamment liées à ses investissements massifs dans ses …",
-   "source": "01net",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Russian National Accused of Using Remote Access Tools to Spy on Silicon Valley Defense Firm",
-   "link": "https://cybersecuritynews.com/russian-national-silicon-valley-spy/",
-   "date": "2026-11-19T12:44:02+00:00",
-   "summary": "A federal grand jury has indicted Russian national Igor D’iu over an alleged spy operation targeting employees of a Silicon Valley technology and defense company. The U.S. Department of Justice said on Nov. 18 that D’iu bought remote access software and wireless networking equipment at the direction of people who …",
-   "source": "CyberSecurityNews",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": []
-  },
-  {
-   "title": "iPhone Air 2 : Apple pourrait faire l’impasse sur une amélioration pourtant attendue",
-   "link": "https://www.01net.com/actualites/iphone-air-2-apple-pourrait-faire-limpasse-sur-une-amelioration-pourtant-attendue.html",
-   "date": "2026-11-19T12:28:51+00:00",
-   "summary": "Apple pourrait ne pas apporter d’amélioration à l’écran de l’iPhone Air 2. Cela permettrait à l’entreprise d’utiliser ses stocks de dalles OLED existants.",
-   "source": "01net",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": [
-    "Apple"
-   ]
-  },
-  {
    "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
    "link": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-19T12:26:39+00:00",
@@ -806,234 +1217,11 @@
    "tags": []
   },
   {
-   "title": "« CRITIQUE » : après le chaos PHP2Shell, PHP alerte sur de nouvelles failles de sécurité",
-   "link": "https://www.01net.com/actualites/critique-apres-le-chaos-php2shell-php-alerte-sur-de-nouvelles-failles-de-securite.html",
-   "date": "2026-11-19T12:00:38+00:00",
-   "summary": "Moins d’un mois après PHP2Shell, PHP, le langage informatique qui fait tourner près de 70 % des sites web dans le monde, annonce de nouvelles failles « critiques ». Des correctifs seront rapidement déployés pour colmater les vulnérabilités.",
-   "source": "01net",
-   "lang": "fr",
-   "cat": "cyber",
-   "tags": [
-    "faille",
-    "sécurité",
-    "vulnérabilité"
-   ]
-  },
-  {
-   "title": "Everything Is a Web Application, Including Your Firewall",
-   "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-   "date": "2026-11-19T11:52:23+00:00",
-   "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet. Both flaws let anyone execute code on the web …",
-   "source": "The Hacker News",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": [
-    "CVE",
-    "exploit"
-   ]
-  },
-  {
-   "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
-   "date": "2026-11-19T11:46:00+00:00",
-   "summary": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": []
-  },
-  {
-   "title": "iPhone 20 Pro : à peine passé à l’aluminium, Apple voudrait déjà revenir au titane",
-   "link": "https://www.01net.com/actualites/iphone-20-pro-a-peine-passe-a-laluminium-apple-voudrait-deja-revenir-au-titane.html",
-   "date": "2026-11-19T11:34:31+00:00",
-   "summary": "Un an seulement après avoir troqué le titane contre l’aluminium sur sa gamme Pro, Apple préparerait déjà un rétropédalage pour les 20 ans de l’iPhone. Au programme des prototypes actuels : un châssis en titane, des formes nettement plus arrondies et un écran incurvé sur les quatre côtés.",
-   "source": "01net",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": [
-    "Apple"
-   ]
-  },
-  {
-   "title": "How to tell a cyberattack from a plain old outage",
-   "link": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
-   "date": "2026-11-19T11:13:01+00:00",
-   "summary": "When everything goes down, don’t assume it’s a cyberattack.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "GTA 6 : les réglages à changer tout de suite sur votre télé, votre PS5 ou votre Xbox",
-   "link": "https://www.01net.com/actualites/gta-6-les-reglages-a-changer-tout-de-suite-sur-votre-tele-votre-ps5-ou-votre-xbox.html",
-   "date": "2026-11-19T10:47:32+00:00",
-   "summary": "Mode jeu, HGIG, calibrage HDR, flou cinétique, VRR : voici les réglages à appliquer sur votre téléviseur, votre PS5 ou votre Xbox Series pour profiter de GTA 6.",
-   "source": "01net",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "L'ancien patron de Canal+ Bertrand Méheut est mort",
-   "link": "https://www.journaldunet.com/publishers/1558229-bertrand-meheut-est-mort/",
-   "date": "2026-11-19T10:39:12+00:00",
-   "summary": "Figure marquante de l'audiovisuel, Bertrand Méheut s'est éteint, laissant une empreinte durable sur le groupe Canal+.",
-   "source": "Journal du Net",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Tri de CV par IA : le score doit ordonner la lecture, pas décider du refus",
-   "link": "https://www.journaldunet.com/management/emploi-cadres/1558193-tri-de-cv-par-ia-le-score-doit-ordonner-la-lecture-pas-decider-du-refus/",
-   "date": "2026-11-19T10:36:41+00:00",
-   "summary": "Le tri de CV par IA peut faire gagner environ 13 h 20 par poste à une PME qui reçoit 200 CV, selon une estimation fondée sur des hypothèses explicites.",
-   "source": "Journal du Net",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": [
-    "IA"
-   ]
-  },
-  {
-   "title": "Microsoft confirms app installation, launch issues after hotpatch",
-   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
-   "date": "2026-11-19T10:35:05+00:00",
-   "summary": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": []
-  },
-  {
-   "title": "Deux liaisons cachées avec ses salariées : la Cour de cassation valide le licenciement du directeur",
-   "link": "https://www.journaldunet.com/management/vie-personnelle/1558195-deux-liaisons-cachees-avec-ses-salariees-la-cour-de-cassation-valide-le-licenciement-du-directeur/",
-   "date": "2026-11-19T09:59:18+00:00",
-   "summary": "Un directeur menait deux liaisons cachées avec des salariées de son agence. La Cour de cassation valide son licenciement pour trouble objectif caractérisé.",
-   "source": "Journal du Net",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Isolement des personnes âgées : le maintien à domicile ne doit pas devenir un enfermement",
-   "link": "https://www.journaldunet.com/management/direction-generale/1558201-isolement-des-personnes-agees-le-maintien-a-domicile-ne-doit-pas-devenir-un-enfermement/",
-   "date": "2026-11-19T09:58:35+00:00",
-   "summary": "Rester chez soi n'est une réussite que si l'on peut encore en sortir. Compter les sorties retrouvées, pas seulement les chutes évitées, change la façon de piloter le maintien à domicile.",
-   "source": "Journal du Net",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Fondateur, PDG, directeur général : sur LinkedIn, à chacun sa voix",
-   "link": "https://www.journaldunet.com/management/direction-generale/1558233-fondateur-pdg-directeur-general-sur-linkedin-a-chacun-sa-voix/",
-   "date": "2026-11-19T09:58:17+00:00",
-   "summary": "Fondateur, cédant, PDG ou directeur nommé : chaque place appelle une voix différente. Ce que leurs interlocuteurs attendent d'eux, et ce qu'ils sont prêts à croire.",
-   "source": "Journal du Net",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Déplacements professionnels : course ponctuelle ou chauffeur à disposition ?",
-   "link": "https://www.journaldunet.com/management/direction-generale/1558217-deplacements-professionnels-course-ponctuelle-ou-chauffeur-a-disposition/",
-   "date": "2026-11-19T09:57:45+00:00",
-   "summary": "Transfert aéroport, rendez-vous enchaînés ou séminaire : chaque déplacement professionnel appelle une formule de transport adaptée. Quelques repères pour bien choisir.",
-   "source": "Journal du Net",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Formation et business : il est temps de parler le même langage",
-   "link": "https://www.journaldunet.com/management/formation/1558191-formation-et-business-il-est-temps-de-parler-le-meme-langage/",
-   "date": "2026-11-19T09:56:30+00:00",
-   "summary": "Les entreprises investissent massivement dans la formation, mais mesurent encore trop peu ses effets concrets sur les compétences, les pratiques et la performance opérationnelle.",
-   "source": "Journal du Net",
-   "lang": "fr",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-   "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
-   "date": "2026-11-19T09:31:26+00:00",
-   "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have taken steps to mitigate the threat and are continuing to harden our services to reduce the risk of …",
-   "source": "The Hacker News",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": [
-    "breach"
-   ]
-  },
-  {
-   "title": "NVIDIA investigating Gentlemen ransomware breach claims",
-   "link": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
-   "date": "2026-11-19T09:23:21+00:00",
-   "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": [
-    "ransomware",
-    "breach"
-   ]
-  },
-  {
-   "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
-   "link": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
-   "date": "2026-11-19T08:42:11+00:00",
-   "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine. \"We are aware of PoCs that prove some of them can be used to trigger remote …",
-   "source": "The Hacker News",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": [
-    "exploit"
-   ]
-  },
-  {
-   "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
-   "link": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
-   "date": "2026-11-19T08:14:00+00:00",
-   "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL. The exploits, published yesterday, are the researcher's proofs of concept against …",
-   "source": "The Hacker News",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": [
-    "exploit"
-   ]
-  },
-  {
-   "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
-   "link": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
-   "date": "2026-11-19T08:00:00+00:00",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence …",
-   "source": "The Hacker News",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": [
-    "ransomware",
-    "exploit"
-   ]
-  },
-  {
    "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
    "link": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge",
    "date": "2026-11-19T08:00:00+00:00",
    "summary": "Nigeria faced more than double the cyber threats of the previous year, with Angola and Kenya also in the top 5 most-attacked countries globally.",
    "source": "Dark Reading",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": []
-  },
-  {
-   "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
-   "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
-   "date": "2026-11-19T04:33:46+00:00",
-   "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026, between 2 and 2:30 p.m. UTC. \"These releases are part of PHP's regular four-week release cycle and will address security …",
-   "source": "The Hacker News",
    "lang": "en",
    "cat": "cyber",
    "tags": []
@@ -1059,48 +1247,6 @@
    "tags": []
   },
   {
-   "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
-   "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
-   "date": "2026-11-18T23:25:04+00:00",
-   "summary": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
-   "link": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
-   "date": "2026-11-18T23:10:39+00:00",
-   "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
-   "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
-   "date": "2026-11-18T23:08:33+00:00",
-   "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": [
-    "ransomware"
-   ]
-  },
-  {
-   "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
-   "link": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
-   "date": "2026-11-18T22:08:57+00:00",
-   "summary": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "cat": "tech",
-   "tags": []
-  },
-  {
    "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
    "link": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
    "date": "2026-11-18T21:59:46+00:00",
@@ -1113,16 +1259,6 @@
    ]
   },
   {
-   "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
-   "link": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
-   "date": "2026-11-18T21:29:24+00:00",
-   "summary": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "cat": "tech",
-   "tags": []
-  },
-  {
    "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
    "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-18T21:28:08+00:00",
@@ -1130,16 +1266,6 @@
    "source": "BBC Technology",
    "lang": "en",
    "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
-   "link": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
-   "date": "2026-11-18T20:49:32+00:00",
-   "summary": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "cat": "cyber",
    "tags": []
   },
   {
@@ -1153,18 +1279,6 @@
    "tags": []
   },
   {
-   "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
-   "link": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
-   "date": "2026-11-18T20:41:12+00:00",
-   "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "cat": "tech",
-   "tags": [
-    "Windows"
-   ]
-  },
-  {
    "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
    "link": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
    "date": "2026-11-18T20:38:42+00:00",
@@ -1174,223 +1288,6 @@
    "cat": "cyber",
    "tags": [
     "ransomware"
-   ]
-  },
-  {
-   "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
-   "link": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
-   "date": "2026-11-18T19:39:33+00:00",
-   "summary": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": [
-    "breach"
-   ]
-  },
-  {
-   "title": "Best Buy sells Blu-rays online and in-store again",
-   "link": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
-   "date": "2026-11-18T19:31:17+00:00",
-   "summary": "Popular titles like The Odyssey are being “sold & shipped by Best Buy.\"",
-   "source": "Ars Technica",
-   "lang": "en",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
-   "link": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
-   "date": "2026-11-18T19:19:33+00:00",
-   "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
-   "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
-   "date": "2026-11-18T18:46:08+00:00",
-   "summary": "CFTC: Kalshi bets may violate US ban on contracts that can be easily manipulated.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
-   "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
-   "date": "2026-11-18T18:31:17+00:00",
-   "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015. Fixed versions 1.31.9 and 1.30.7 …",
-   "source": "The Hacker News",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": [
-    "CVE"
-   ]
-  },
-  {
-   "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-   "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-   "date": "2026-11-18T18:15:39+00:00",
-   "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual server: an iRule that uses a particular command, or an APM policy that includes two particular kinds …",
-   "source": "The Hacker News",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": []
-  },
-  {
-   "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-   "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T17:34:25+00:00",
-   "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-   "source": "BBC Technology",
-   "lang": "en",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
-   "link": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
-   "date": "2026-11-18T16:58:42+00:00",
-   "summary": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": []
-  },
-  {
-   "title": "Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem",
-   "date": "2026-11-18T16:54:52+00:00",
-   "summary": "Discovered using AI, the memory corruption vulnerability affects the OpenJDK runtime and could allow unauthenticated attackers to take over systems.",
-   "source": "Dark Reading",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": []
-  },
-  {
-   "title": "Major Brazilian Signature Apps Enable RCE &amp; Fraud",
-   "link": "https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud",
-   "date": "2026-11-18T14:00:00+00:00",
-   "summary": "Government-sanctioned authentication middleware is used for exceptionally important legal documents, yet it's often rife with RCE bugs.",
-   "source": "Dark Reading",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": []
-  },
-  {
-   "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
-   "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T13:16:53+00:00",
-   "summary": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
-   "source": "BBC Technology",
-   "lang": "en",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Le Groupe VYV et la CNIL publient « La Voix des jeunesses » : une enquête pour éclairer les usages de l’IA conversationnelle",
-   "link": "https://www.cnil.fr/fr/ia-conversationnelle-la-voix-des-jeunesses",
-   "date": "2026-11-18T12:00:00+00:00",
-   "summary": "Alors que près d’un jeune sur deux se confie à une IA sur des sujets intimes, avec le livret «&nbsp;La Voix des jeunesses&nbsp;», le Groupe VYV, premier acteur mutualiste de santé et de protection sociale en France, et la CNIL croisent enquête européenne, témoignages, et expertises pour éclairer les enjeux de santé …",
-   "source": "CNIL",
-   "lang": "fr",
-   "cat": "cyber",
-   "tags": []
-  },
-  {
-   "title": "Conservation des mots de passe clients en clair : la CNIL prononce une sanction de 5 millions d’euros",
-   "link": "https://www.cnil.fr/fr/conservation-des-mots-de-passe-sanction-5-millions-deuros",
-   "date": "2026-11-18T12:00:00+00:00",
-   "summary": "En novembre 2026, la CNIL a infligé une sanction de 5&nbsp;millions d’euros à une société en raison de l’insuffisance des mesures prises pour assurer la sécurité des données de ses clients et d’une durée excessive de conservation des données.",
-   "source": "CNIL",
-   "lang": "fr",
-   "cat": "cyber",
-   "tags": [
-    "sécurité"
-   ]
-  },
-  {
-   "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
-   "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T09:28:35+00:00",
-   "summary": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
-   "source": "BBC Technology",
-   "lang": "en",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Security flaw found in Java, world's third-largest programming language",
-   "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T08:47:06+00:00",
-   "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
-   "source": "BBC Technology",
-   "lang": "en",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "How important are Nvidia and Jensen Huang to the US economy?",
-   "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T06:04:21+00:00",
-   "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
-   "source": "BBC Technology",
-   "lang": "en",
-   "cat": "tech",
-   "tags": []
-  },
-  {
-   "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
-   "link": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T05:10:02+00:00",
-   "summary": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
-   "source": "BBC Technology",
-   "lang": "en",
-   "cat": "tech",
-   "tags": [
-    "Microsoft",
-    "Apple"
-   ]
-  },
-  {
-   "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
-   "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
-   "date": "2026-11-18T02:52:04+00:00",
-   "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing …",
-   "source": "Krebs on Security",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": [
-    "malware",
-    "exploit",
-    "incident"
-   ]
-  },
-  {
-   "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
-   "link": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
-   "date": "2026-11-17T22:34:22+00:00",
-   "summary": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
-   "source": "Dark Reading",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": [
-    "malware"
-   ]
-  },
-  {
-   "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
-   "link": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
-   "date": "2026-11-17T20:58:13+00:00",
-   "summary": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
-   "source": "Dark Reading",
-   "lang": "en",
-   "cat": "cyber",
-   "tags": [
-    "phishing"
    ]
   }
  ]
